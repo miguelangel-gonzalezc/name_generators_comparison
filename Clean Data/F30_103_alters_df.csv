@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Hombre,48.0,Maracena,3.0,Trabajo
+1,Hombre,51.0,Jaén,3.0,Trabajo
+2,Hombre,45.0,Cordoba,3.0,Trabajo
+3,Mujer,63.0,Linares,5.0,Familia
+4,Hombre,28.0,Granada,5.0,Familia
+5,Hombre,22.0,Getafe,5.0,Familia
+6,Hombre,63.0,Jaen,4.0,Trabajo
+7,Mujer,62.0,Jaen,3.0,A través de otra persona
+8,Hombre,69.0,Tres Cantos,5.0,Familia
+9,Mujer,66.0,Granada,4.0,Familia
+10,Hombre,63.0,Linares,3.0,Familia
+11,Mujer,64.0,Linares,3.0,A través de otra persona
+12,Mujer,63.0,Linares,3.0,Familia
+13,Mujer,61.0,Granada,3.0,Estudios Superiores
+14,Hombre,30.0,Madrid,3.0,Familia
+15,Mujer,25.0,Granada,3.0,A través de otra persona
+16,Hombre,55.0,Sabiote,3.0,Trabajo
+17,Hombre,65.0,Jaen,3.0,Trabajo
+18,Hombre,64.0,Linares,3.0,A través de otra persona
+19,Hombre,60.0,Linares,3.0,A través de otra persona
+20,Mujer,61.0,Linares,3.0,A través de otra persona
+21,Hombre,60.0,Linares,3.0,Vecino/a
+22,Hombre,65.0,Cordoba,3.0,Trabajo
+23,Mujer,55.0,Granada,3.0,Trabajo
+24,Hombre,68.0,Malaga,3.0,Trabajo
+25,Hombre,60.0,Jaén,3.0,Trabajo
+26,Hombre,62.0,Malaga,2.0,Trabajo
+27,Hombre,59.0,Linares,3.0,Familia
+28,Hombre,50.0,Londres,3.0,Familia
+29,Hombre,40.0,Granada,3.0,Familia

@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Hombre,22.0,Madrid,5.0,Estudios Superiores
+1,Mujer,23.0,Madrid,4.0,Estudios de Primaria/Secundaria
+2,Mujer,22.0,Madrid,3.0,Estudios de Primaria/Secundaria
+3,Mujer,22.0,Madrid,4.0,Estudios de Primaria/Secundaria
+4,Mujer,22.0,Madrid ,3.0,Trabajo
+5,Mujer,23.0,Madrid,4.0,Estudios de Primaria/Secundaria
+6,Mujer,23.0,Madrid ,2.0,Estudios de Primaria/Secundaria
+7,Mujer,23.0,Munich ,3.0,Estudios de Primaria/Secundaria
+8,Hombre,22.0,Madrid ,3.0,Estudios Superiores
+9,Mujer,23.0,Madrid ,4.0,Estudios Superiores
+10,Mujer,22.0,Madrid ,3.0,Estudios Superiores
+11,Hombre,23.0,Madrid ,4.0,Estudios Superiores
+12,Mujer,22.0,Madrid ,2.0,Estudios Superiores
+13,Mujer,23.0,Madrid ,3.0,Estudios Superiores
+14,Mujer,22.0,Madrid ,3.0,Otro
+15,Hombre,23.0,Madrid ,3.0,Otro
+16,Mujer,23.0,Pamplona ,2.0,Otro
+17,Mujer,22.0,Pamplona ,2.0,Estudios de Primaria/Secundaria
+18,Hombre,21.0,Málaga ,2.0,Otro
+19,Mujer,23.0,Barcelona ,1.0,Otro
+20,Mujer,19.0,Madrid ,4.0,Otro
+21,Mujer,23.0,Barcelona ,4.0,Otro
+22,Mujer,22.0,Burgos ,4.0,Otro
+23,Mujer,21.0,Dublín ,1.0,Otro
+24,Mujer,22.0,Bali,2.0,Estudios Superiores
+25,Mujer,22.0,Madrid ,2.0,Estudios Superiores
+26,Mujer,23.0,Madrid ,3.0,Estudios de Primaria/Secundaria
+27,Mujer,23.0,Tarragona ,3.0,Otro
+28,Mujer,24.0,Dresden,3.0,Otro
+29,Mujer,23.0,Bremen ,2.0,Otro

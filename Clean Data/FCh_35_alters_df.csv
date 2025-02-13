@@ -1,0 +1,46 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,25,Valencia,3,Trabajo
+1,Hombre,34,Valencia,3,Estudios Superiores
+2,Prefiero no responder,24,Castellón,4,Estudios Superiores
+3,Hombre,36,Alicante,3,Trabajo
+4,Hombre,20,Alicante,2,Estudios Superiores
+5,Hombre,26,Valencia,3,Trabajo
+6,Mujer,25,Valencia,3,Estudios Superiores
+7,Mujer,30,Castellón,2,Aficiones comunes
+8,Hombre,30,Bilbao,4,A través de otra persona
+9,Hombre,23,Valencia,3,Estudios Superiores
+10,Mujer,26,Castellón,3,Estudios de Primaria/Secundaria
+11,Hombre,20,Alicante,3,Estudios Superiores
+12,Mujer,25,Catellón,3,Trabajo
+13,Mujer,29,Valencia,3,Familia
+14,Hombre,26,Madrid,4,Trabajo
+15,Mujer,26,Asturias,2,Otro
+16,Mujer,26,República Dominicana,3,Trabajo
+17,Hombre,24,Murcia,1,A través de otra persona
+18,Mujer,30,Valladolid,2,A través de otra persona
+19,Hombre,35,Valencia,1,Aficiones comunes
+20,Mujer,30,Castellón,1,Trabajo
+21,Hombre,30,Wisconsin,3,Trabajo
+22,Mujer,24,Valencia,2,Estudios Superiores
+23,Mujer,28,Castilla y León,2,Estudios Superiores
+24,Mujer,22,Salamanca,2,Estudios Superiores
+25,Mujer,24,Madrid,1,Trabajo
+26,Mujer,26,Cádiz,1,Estudios Superiores
+27,Mujer,26,Castellón,2,Estudios Superiores
+28,Hombre,29,Albacete,2,Aficiones comunes
+29,Mujer,30,La Rioja,2,Trabajo
+30,Hombre,39,Caribe,1,Trabajo
+31,Hombre,29,Cuba,1,Estudios Superiores
+32,Hombre,25,Valencia,3,Estudios Superiores
+33,Hombre,30,Oviedo,3,Estudios Superiores
+34,Mujer,26,Bilbao,2,Estudios Superiores
+35,Hombre,35,Alicante,3,Estudios Superiores
+36,Mujer,32,Lugo,2,Trabajo
+37,Hombre,32,Madrid,1,A través de otra persona
+38,Mujer,32,Marruecos,2,Aficiones comunes
+39,Hombre,31,A Coruña,2,Trabajo
+40,Otro,23,Colombia,1,Trabajo
+41,Mujer,24,Barcelona,1,A través de otra persona
+42,Hombre,30,Sant Cugat,1,Aficiones comunes
+43,Mujer,31,Bilbao,1,Trabajo
+44,Hombre,23,Castellón,3,Aficiones comunes
