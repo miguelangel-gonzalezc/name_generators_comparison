@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,55.0,Sevilla ,4.0,Trabajo
+1,Mujer,36.0,Sevilla ,4.0,Vecino/a
+2,Hombre,33.0,Sevilla ,5.0,Familia
+3,Mujer,33.0,Sevilla ,5.0,Familia
+4,Hombre,32.0,Sevilla ,4.0,Vecino/a
+5,Hombre,32.0,Sevilla ,5.0,Trabajo
+6,Mujer,63.0,Sevilla ,3.0,Vecino/a
+7,Hombre,33.0,Cáceres ,2.0,Estudios de Primaria/Secundaria
+8,Mujer,63.0,Cáceres ,5.0,Familia
+9,Mujer,62.0,Cáceres ,5.0,Familia
+10,Hombre,30.0,Cáceres ,5.0,Familia
+11,Mujer,33.0,Madrid,4.0,Trabajo
+12,Mujer,30.0,Sevilla ,4.0,Trabajo
+13,Hombre,55.0,Sevilla ,4.0,Trabajo
+14,Hombre,40.0,Sevilla ,3.0,A través de otra persona
+15,Hombre,58.0,Sevilla ,4.0,Vecino/a
+16,Mujer,44.0,Sevilla ,3.0,Vecino/a
+17,Hombre,65.0,Sevilla ,5.0,Familia
+18,Mujer,63.0,Sevilla ,5.0,Familia
+19,Mujer,67.0,Cáceres ,5.0,Familia
+20,Mujer,42.0,Cáceres ,4.0,Familia
+21,Hombre,35.0,Cáceres ,5.0,Vecino/a
+22,Mujer,33.0,Algeciras ,4.0,A través de otra persona
+23,Mujer,32.0,Cáceres ,5.0,Familia
+24,Mujer,26.0,Cáceres ,4.0,Familia
+25,Mujer,8.0,Cáceres ,4.0,Familia
+26,Mujer,33.0,Sevilla ,4.0,A través de otra persona
+27,Hombre,68.0,Cáceres ,4.0,Familia
+28,Hombre,47.0,Sevilla ,4.0,Vecino/a
+29,Mujer,47.0,Sevilla ,4.0,Vecino/a

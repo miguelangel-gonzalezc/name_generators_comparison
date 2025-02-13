@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,56.0,caracas,5.0,A través de otra persona
+1,Mujer,57.0,caracas,5.0,Trabajo
+2,Hombre,62.0,dallas,5.0,Familia
+3,Mujer,68.0,dallas,5.0,Familia
+4,Mujer,54.0,caracas,4.0,Trabajo
+5,Mujer,53.0,caracas,3.0,A través de otra persona
+6,Mujer,47.0,caracas,3.0,Aficiones comunes
+7,Mujer,55.0,caracas,3.0,A través de otra persona
+8,Hombre,57.0,caracas,3.0,A través de otra persona
+9,Hombre,60.0,caracas,3.0,A través de otra persona
+10,Mujer,50.0,caracas,2.0,Trabajo
+11,Mujer,41.0,caracas,2.0,Trabajo
+12,Hombre,47.0,madrid,4.0,A través de otra persona
+13,Hombre,80.0,caracas,2.0,Vecino/a
+14,Mujer,55.0,caracas,3.0,Trabajo
+15,Hombre,54.0,caracas,3.0,Trabajo
+16,Hombre,61.0,caracas,2.0,A través de otra persona
+17,Mujer,53.0,caracas,2.0,A través de otra persona
+18,Mujer,35.0,caracas,2.0,Aficiones comunes
+19,Hombre,31.0,dallas,5.0,Familia
+20,Mujer,29.0,dallas,4.0,Familia
+21,Hombre,61.0,caracas,5.0,Familia
+22,Mujer,49.0,caracas,2.0,Aficiones comunes
+23,Mujer,47.0,caracas,2.0,Trabajo
+24,Hombre,14.0,caracas,5.0,Familia
+25,Mujer,51.0,caracas,2.0,Aficiones comunes
+26,Hombre,47.0,caracas,2.0,Trabajo
+27,Mujer,62.0,caracas,2.0,Trabajo
+28,Mujer,47.0,caracas,2.0,Aficiones comunes
+29,Mujer,79.0,caracas,3.0,Familia

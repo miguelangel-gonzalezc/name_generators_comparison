@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Hombre,56.0,MADRID,5.0,Estudios de Primaria/Secundaria
+1,Hombre,57.0,MADRID,4.0,Estudios de Primaria/Secundaria
+2,Hombre,57.0,TRES CANTOS,5.0,Estudios de Primaria/Secundaria
+3,Hombre,57.0,MADRID,3.0,Estudios de Primaria/Secundaria
+4,Hombre,55.0,MADRID,4.0,A través de otra persona
+5,Hombre,55.0,DUSSELDORF,4.0,A través de otra persona
+6,Hombre,59.0,MADRID,3.0,A través de otra persona
+7,Mujer,57.0,MADRID,3.0,A través de otra persona
+8,Mujer,50.0,MADRID,5.0,A través de otra persona
+9,Hombre,54.0,MADRID,3.0,Trabajo
+10,Hombre,53.0,MADRID,2.0,A través de otra persona
+11,Hombre,57.0,LAS ROZAS,3.0,Estudios Superiores
+12,Mujer,57.0,PINTO,2.0,A través de otra persona
+13,Mujer,41.0,MADRID,2.0,Familia
+14,Hombre,41.0,MADRID,3.0,Familia
+15,Mujer,52.0,MADRID,2.0,Familia
+16,Hombre,64.0,MADRID,2.0,Familia
+17,Mujer,52.0,LAS ROZAS,3.0,A través de otra persona
+18,Mujer,43.0,DUSSELDORF,1.0,A través de otra persona
+19,Mujer,57.0,MADRID,3.0,Estudios de Primaria/Secundaria
+20,Mujer,53.0,TRES CANTOS,2.0,A través de otra persona
+21,Hombre,42.0,MADRID,4.0,Familia
+22,Mujer,42.0,MADRID,2.0,Familia
+23,Mujer,55.0,SAN AGUSTIN DEL GUADALIX,3.0,Familia
+24,Hombre,59.0,SAN AGUSTIN DEL GUADALIX,4.0,Familia
+25,Hombre,52.0,MADRID,2.0,Familia
+26,Mujer,81.0,MADRID,4.0,Familia
+27,Mujer,57.0,MADRID,4.0,A través de otra persona
+28,Mujer,52.0,MADRID,3.0,A través de otra persona
+29,Mujer,55.0,MADRID,3.0,A través de otra persona

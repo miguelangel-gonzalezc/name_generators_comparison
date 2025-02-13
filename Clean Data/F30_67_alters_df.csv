@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,23.0,Madrid,4.0,Trabajo
+1,Hombre,20.0,Madrid,5.0,Familia
+2,Mujer,30.0,Madrid,4.0,Trabajo
+3,Mujer,25.0,Madrid,4.0,Trabajo
+4,Mujer,51.0,Andalucia,5.0,Familia
+5,Hombre,53.0,Andalucia,5.0,Familia
+6,Mujer,24.0,Madrid,3.0,Familia
+7,Mujer,27.0,Madrid,3.0,Familia
+8,Mujer,70.0,Andalucia,4.0,Familia
+9,Hombre,80.0,Andalucia,4.0,Familia
+10,Hombre,23.0,Madrid,5.0,Estudios de Primaria/Secundaria
+11,Mujer,22.0,Madrid,5.0,A través de otra persona
+12,Mujer,23.0,Madrid,4.0,Estudios Superiores
+13,Mujer,23.0,Madrid,3.0,Estudios Superiores
+14,Mujer,23.0,Madrid,3.0,Estudios Superiores
+15,Hombre,22.0,Madrid,1.0,Otro
+16,Hombre,22.0,Madrid,1.0,Aficiones comunes
+17,Mujer,22.0,Madrid,4.0,Aficiones comunes
+18,Hombre,21.0,Madrid,2.0,Aficiones comunes
+19,Mujer,60.0,Madrid,3.0,Trabajo
+20,Mujer,48.0,Madrid,2.0,Trabajo
+21,Mujer,48.0,Andalucia,4.0,Familia
+22,Mujer,15.0,Madrid,3.0,Familia
+23,Hombre,50.0,Madrid,2.0,Familia
+24,Hombre,29.0,Madrid,2.0,A través de otra persona
+25,Mujer,20.0,Madrid,1.0,A través de otra persona
+26,Mujer,26.0,Andalucia,3.0,Familia
+27,Mujer,26.0,Madrid,3.0,Familia
+28,Mujer,50.0,Andalucia,3.0,Familia
+29,Hombre,55.0,Madrid,2.0,A través de otra persona

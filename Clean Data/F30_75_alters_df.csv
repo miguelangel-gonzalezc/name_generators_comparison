@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,59.0,Madrid,5.0,Familia
+1,Hombre,58.0,Madrid ,5.0,Familia
+2,Mujer,18.0,Madrid ,5.0,Familia
+3,Hombre,24.0,Madrid,5.0,Trabajo
+4,Hombre,43.0,Madrid,3.0,Trabajo
+5,Hombre,26.0,Madrid,4.0,Familia
+6,Mujer,23.0,Madrid,5.0,Familia
+7,Mujer,34.0,Bruselas,4.0,Familia
+8,Hombre,22.0,Madrid,4.0,Familia
+9,Mujer,24.0,Madrid,5.0,Estudios de Primaria/Secundaria
+10,Mujer,25.0,Madrid,5.0,Estudios de Primaria/Secundaria
+11,Mujer,24.0,Madrid,4.0,Estudios de Primaria/Secundaria
+12,Mujer,24.0,Madrid,4.0,Estudios de Primaria/Secundaria
+13,Mujer,89.0,Cuenca,5.0,Familia
+14,Mujer,61.0,Madrid,3.0,Familia
+15,Hombre,62.0,Madrid,3.0,Familia
+16,Mujer,27.0,Barcelona,5.0,Familia
+17,Mujer,31.0,Madrid,4.0,Familia
+18,Mujer,18.0,Madrid,2.0,Familia
+19,Mujer,26.0,Madrid,3.0,Trabajo
+20,Hombre,25.0,Madrid,2.0,Trabajo
+21,Hombre,24.0,Madrid,2.0,Trabajo
+22,Hombre,25.0,Madrid,3.0,Trabajo
+23,Hombre,25.0,Madrid,3.0,Trabajo
+24,Hombre,25.0,Madrid,4.0,Estudios de Primaria/Secundaria
+25,Mujer,24.0,Madrid,2.0,Estudios de Primaria/Secundaria
+26,Mujer,26.0,Madrid,4.0,Trabajo
+27,Hombre,33.0,Extremadura,4.0,A través de otra persona
+28,Mujer,30.0,Madrid,4.0,Trabajo
+29,Hombre,44.0,Barcelona,3.0,Trabajo

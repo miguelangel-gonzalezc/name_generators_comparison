@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,54.0,Fuenlabrada,5.0,Familia
+1,Hombre,33.0,Fuemlabrada,5.0,Familia
+2,Hombre,26.0,Leganes,5.0,Otro
+3,Mujer,24.0,Villaverde,5.0,Estudios Superiores
+4,Mujer,25.0,Villaverde,4.0,Estudios Superiores
+5,Mujer,26.0,Villaverde,4.0,Estudios Superiores
+6,Mujer,29.0,Villaverde,3.0,Estudios Superiores
+7,Mujer,24.0,Villaverde,4.0,Estudios Superiores
+8,Hombre,25.0,Fuenlabrada,5.0,Estudios de Primaria/Secundaria
+9,Mujer,25.0,Fuenlabrada,4.0,Estudios de Primaria/Secundaria
+10,Mujer,48.0,Getafe,5.0,Trabajo
+11,Mujer,30.0,?,3.0,Trabajo
+12,Mujer,28.0,?,3.0,Trabajo
+13,Hombre,32.0,Villaverde,3.0,Trabajo
+14,Mujer,42.0,?,3.0,Trabajo
+15,Mujer,53.0,?,2.0,Trabajo
+16,Mujer,32.0,?,3.0,Trabajo
+17,Mujer,25.0,?,2.0,Trabajo
+18,Mujer,45.0,?,2.0,Trabajo
+19,Mujer,20.0,?,2.0,Trabajo
+20,Mujer,28.0,?,3.0,Trabajo
+21,Hombre,25.0,Alto de extremadura,3.0,Trabajo
+22,Hombre,35.0,?,2.0,Trabajo
+23,Mujer,43.0,Piramides,4.0,Trabajo
+24,Mujer,36.0,?,3.0,Trabajo
+25,Mujer,32.0,?,3.0,Trabajo
+26,Mujer,45.0,Tres cantos,3.0,Trabajo
+27,Mujer,32.0,?,2.0,Trabajo
+28,Mujer,26.0,?,3.0,Trabajo
+29,Mujer,28.0,?,3.0,Trabajo

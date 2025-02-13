@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,54.0,Santa Cruz de La Palma ,4.0,Familia
+1,Hombre,54.0,Sants Cruz de La Palma,5.0,Familia
+2,Hombre,36.0,Santa Cruz de La Palma ,5.0,Otro
+3,Mujer,60.0,Santa Cruz de La Palma ,4.0,Familia
+4,Mujer,23.0,Madrid,2.0,Estudios Superiores
+5,Hombre,48.0,Madrid ,2.0,Estudios Superiores
+6,Mujer,50.0,Madrid,2.0,Estudios Superiores
+7,Hombre,33.0,Santa Cruz de La Palma ,1.0,Trabajo
+8,Mujer,37.0,Santa Cruz de La Palma ,3.0,Estudios de Primaria/Secundaria
+9,Mujer,37.0,Santa Cruz de La Palma ,4.0,A través de otra persona
+10,Mujer,60.0,Santa Cruz de La Palma ,4.0,A través de otra persona
+11,Hombre,20.0,Santa Cruz de La Palma ,2.0,A través de otra persona
+12,Hombre,38.0,Santa Cruz de La Palma ,1.0,A través de otra persona
+13,Mujer,53.0,Santa Cruz de La Palma ,3.0,A través de otra persona
+14,Hombre,23.0,Santa Cruz de La Palma ,1.0,Estudios de Primaria/Secundaria
+15,Hombre,34.0,Santa Cruz de La Palma ,4.0,Trabajo
+16,Mujer,55.0,Estados Unidos,4.0,Familia
+17,Mujer,64.0,Colombia,4.0,Familia
+18,Hombre,33.0,Colombia,4.0,Familia
+19,Mujer,30.0,Colombia,2.0,A través de otra persona
+20,Mujer,25.0,Colombia,2.0,Familia
+21,Mujer,84.0,Colombia,3.0,Familia
+22,Mujer,57.0,Colombia,3.0,Familia
+23,Hombre,28.0,Colombia,2.0,Familia
+24,Hombre,37.0,Colombia,1.0,Familia
+25,Hombre,7.0,Colombia,5.0,Familia
+26,Hombre,60.0,Santa Cruz de La Palma ,1.0,A través de otra persona
+27,Mujer,38.0,Santa Cruz de La Palma ,1.0,Trabajo
+28,Hombre,32.0,Santa Cruz de La Palma ,2.0,A través de otra persona
+29,Hombre,39.0,Santa Cruz de La Palma ,1.0,A través de otra persona

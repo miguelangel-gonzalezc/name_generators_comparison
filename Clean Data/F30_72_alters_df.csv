@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,47.0,Sevilla,5.0,Familia
+1,Hombre,49.0,La Algaba,3.0,Familia
+2,Mujer,75.0,Sevilla,5.0,Familia
+3,Hombre,40.0,Sevilla,5.0,Aficiones comunes
+4,Mujer,38.0,Sevilla,3.0,Familia
+5,Mujer,39.0,Sevilla,4.0,A través de otra persona
+6,Mujer,44.0,Sevilla,4.0,Otro
+7,Mujer,36.0,Sevilla,2.0,Otro
+8,Mujer,45.0,Sevilla,1.0,Otro
+9,Hombre,58.0,Dos Hermanas,2.0,Trabajo
+10,Mujer,55.0,Sevilla,2.0,Trabajo
+11,Mujer,33.0,Almendralejo,4.0,Estudios Superiores
+12,Hombre,42.0,Sevilla,3.0,A través de otra persona
+13,Hombre,46.0,Sevilla,5.0,A través de otra persona
+14,Mujer,38.0,Mairena del Aljarafe,3.0,A través de otra persona
+15,Mujer,39.0,Sevilla,3.0,A través de otra persona
+16,Hombre,80.0,Sevilla,2.0,Familia
+17,Hombre,44.0,Sevilla,1.0,A través de otra persona
+18,Mujer,42.0,Dos Hermanas,1.0,Trabajo
+19,Mujer,36.0,Linares,3.0,Trabajo
+20,Mujer,25.0,Sevilla,4.0,Familia
+21,Mujer,40.0,Sevilla,3.0,A través de otra persona
+22,Hombre,40.0,Sevilla,4.0,A través de otra persona
+23,Mujer,35.0,Sevilla,2.0,A través de otra persona
+24,Mujer,41.0,Sevilla,5.0,Aficiones comunes
+25,Hombre,43.0,Sevilla,4.0,Aficiones comunes
+26,Hombre,41.0,Sevilla,4.0,Aficiones comunes
+27,Hombre,38.0,Sevilla,3.0,A través de otra persona
+28,Hombre,42.0,Mairena del Aljarafe,4.0,A través de otra persona
+29,Hombre,42.0,Cádiz,1.0,Aficiones comunes

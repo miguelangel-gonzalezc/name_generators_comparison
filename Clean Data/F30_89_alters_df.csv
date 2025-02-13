@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Hombre,55.0,Arinaga ,5.0,Familia
+1,Hombre,32.0,Carrizal,5.0,Otro
+2,Hombre,33.0,Carrizal ,4.0,Otro
+3,Mujer,25.0,Cruce de Arinaga ,3.0,Aficiones comunes
+4,Hombre,40.0,Vecindario ,4.0,Otro
+5,Mujer,33.0,Vecindario ,2.0,Familia
+6,Hombre,33.0,Vecindario ,2.0,Familia
+7,Mujer,61.0,Vecindario ,3.0,A través de otra persona
+8,Hombre,62.0,Vecindario ,2.0,A través de otra persona
+9,Mujer,37.0,Carrizal,3.0,Trabajo
+10,Mujer,62.0,Carrizal,2.0,A través de otra persona
+11,Mujer,31.0,Las palmas ,3.0,Estudios de Primaria/Secundaria
+12,Mujer,32.0,Arinaga ,2.0,Estudios de Primaria/Secundaria
+13,Hombre,31.0,Vecindario ,1.0,A través de otra persona
+14,Mujer,25.0,Vecindario ,3.0,Familia
+15,Hombre,28.0,Vecindario ,2.0,Familia
+16,Hombre,33.0,Vecindario ,2.0,Aficiones comunes
+17,Hombre,25.0,Carrizal ,1.0,A través de otra persona
+18,Mujer,33.0,Vecindario ,1.0,A través de otra persona
+19,Mujer,31.0,Arinaga ,2.0,A través de otra persona
+20,Mujer,53.0,Las palmas ,3.0,A través de otra persona
+21,Hombre,17.0,Las palmas ,1.0,A través de otra persona
+22,Mujer,20.0,Las palmas ,1.0,A través de otra persona
+23,Hombre,32.0,Vecindario ,3.0,Otro
+24,Mujer,30.0,Vecindario ,1.0,A través de otra persona
+25,Hombre,62.0,Carrizal,1.0,A través de otra persona
+26,Hombre,41.0,Vecindario ,1.0,Trabajo
+27,Mujer,32.0,Maspalomas ,2.0,Trabajo
+28,Hombre,33.0,Arinaga ,1.0,A través de otra persona
+29,Hombre,32.0,Las palmas ,1.0,Aficiones comunes

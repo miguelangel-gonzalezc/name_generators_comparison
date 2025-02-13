@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,78.0,Madrid ,5.0,Familia
+1,Hombre,74.0,Madrid ,5.0,Familia
+2,Mujer,42.0,Madrid ,5.0,Aficiones comunes
+3,Hombre,38.0,Madrid ,5.0,Familia
+4,Mujer,34.0,Madrid ,5.0,A través de otra persona
+5,Mujer,44.0,Madrid ,4.0,Otro
+6,Hombre,84.0,Madrid ,4.0,A través de otra persona
+7,Mujer,78.0,Madrid ,4.0,A través de otra persona
+8,Mujer,44.0,Madrid ,3.0,A través de otra persona
+9,Mujer,55.0,Madrid ,4.0,Familia
+10,Mujer,57.0,Madrid ,4.0,Familia
+11,Mujer,84.0,Madrid ,4.0,Familia
+12,Mujer,75.0,Madrid ,3.0,Familia
+13,Hombre,51.0,Madrid ,3.0,Familia
+14,Mujer,38.0,Madrid ,3.0,A través de otra persona
+15,Hombre,39.0,Madrid ,2.0,Estudios de Primaria/Secundaria
+16,Mujer,40.0,Madrid ,2.0,Otro
+17,Mujer,39.0,Madrid ,1.0,Otro
+18,Mujer,35.0,Madrid ,3.0,Trabajo
+19,Hombre,39.0,Madrid ,2.0,Otro
+20,Hombre,63.0,Madrid ,3.0,Familia
+21,Hombre,36.0,Madrid ,2.0,Trabajo
+22,Hombre,46.0,Madrid ,2.0,A través de otra persona
+23,Mujer,44.0,Madrid ,2.0,Aficiones comunes
+24,Hombre,40.0,Madrid ,2.0,Aficiones comunes
+25,Mujer,43.0,Madrid ,2.0,Aficiones comunes
+26,Hombre,33.0,Madrid ,1.0,Aficiones comunes
+27,Hombre,35.0,Madrid ,1.0,Aficiones comunes
+28,Hombre,40.0,Madrid ,1.0,Aficiones comunes
+29,Hombre,1.0,Madrid ,5.0,Familia

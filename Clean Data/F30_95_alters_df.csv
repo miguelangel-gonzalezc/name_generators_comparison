@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Hombre,58.0,Madrid,5.0,Trabajo
+1,Mujer,49.0,Mallorca ,5.0,Familia
+2,Mujer,82.0,Madrid,5.0,Familia
+3,Hombre,81.0,Madrid,5.0,Familia
+4,Hombre,48.0,Madrid,2.0,Trabajo
+5,Mujer,57.0,Madrid,2.0,Trabajo
+6,Mujer,60.0,Madrid,2.0,Trabajo
+7,Mujer,48.0,Madrid,3.0,Trabajo
+8,Mujer,57.0,Madrid,2.0,Trabajo
+9,Mujer,45.0,Madrid,1.0,Trabajo
+10,Hombre,60.0,Madrid,5.0,Trabajo
+11,Mujer,56.0,Madrid,3.0,Trabajo
+12,Hombre,35.0,Madrid,3.0,Trabajo
+13,Hombre,28.0,Madrid,2.0,Trabajo
+14,Mujer,55.0,Madrid,4.0,Trabajo
+15,Hombre,55.0,Madrid,2.0,Trabajo
+16,Hombre,72.0,Madrid,2.0,Trabajo
+17,Mujer,56.0,Madrid,4.0,Vecino/a
+18,Mujer,58.0,Madrid,4.0,Aficiones comunes
+19,Mujer,60.0,Madrid,3.0,Trabajo
+20,Hombre,34.0,Madrid,3.0,Estudios Superiores
+21,Hombre,39.0,Madrid,1.0,Estudios Superiores
+22,Mujer,51.0,Madrid,4.0,Trabajo
+23,Hombre,33.0,Madrid,1.0,Trabajo
+24,Hombre,49.0,Madrid ,1.0,Trabajo
+25,Mujer,54.0,Madrid,2.0,Trabajo
+26,Mujer,58.0,Madrid,4.0,Trabajo
+27,Mujer,39.0,Madrid,2.0,Estudios Superiores
+28,Hombre,59.0,Madrid ,3.0,Trabajo
+29,Hombre,37.0,Madrid,1.0,Trabajo

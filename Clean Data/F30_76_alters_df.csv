@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,51.0,Santiago de Compostela ,5.0,Familia
+1,Mujer,14.0,Santiago de Compostela ,5.0,Familia
+2,Hombre,50.0,Orense ,3.0,Trabajo
+3,Mujer,51.0,Santiago de Compostela ,3.0,Trabajo
+4,Hombre,57.0,Coruña ,4.0,Trabajo
+5,Mujer,53.0,Pontevedra ,3.0,Trabajo
+6,Mujer,45.0,Oviedo ,3.0,Trabajo
+7,Mujer,51.0,Valladolid ,2.0,Trabajo
+8,Hombre,58.0,Oviedo ,3.0,Trabajo
+9,Hombre,48.0,Santiago de Compostela ,3.0,Aficiones comunes
+10,Hombre,57.0,Santiago de Compostela ,3.0,Aficiones comunes
+11,Mujer,27.0,Santiago de Compostela ,3.0,Aficiones comunes
+12,Mujer,79.0,Madrid ,5.0,Familia
+13,Mujer,56.0,Madrid ,5.0,Familia
+14,Hombre,44.0,Madrid ,5.0,Familia
+15,Hombre,40.0,Madrid ,4.0,Familia
+16,Hombre,23.0,Santiago de Compostela ,5.0,Familia
+17,Hombre,20.0,Santiago de Compostela ,5.0,Familia
+18,Mujer,40.0,Santiago de Compostela ,4.0,Familia
+19,Mujer,49.0,Santiago de Compostela ,3.0,Familia
+20,Mujer,71.0,Santiago de Compostela ,4.0,Familia
+21,Hombre,41.0,Santiago de Compostela ,3.0,Familia
+22,Hombre,47.0,Santiago de Compostela ,3.0,Familia
+23,Mujer,10.0,Santiago de Compostela ,4.0,Familia
+24,Mujer,3.0,Santiago de Compostela ,4.0,Familia
+25,Hombre,6.0,Santiago de Compostela ,4.0,Familia
+26,Hombre,59.0,Madrid ,4.0,Familia
+27,Hombre,24.0,Alemania ,4.0,Familia
+28,Hombre,26.0,Madrid ,4.0,Familia
+29,Hombre,18.0,Madrid ,4.0,Familia

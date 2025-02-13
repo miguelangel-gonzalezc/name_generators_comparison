@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,84.0,Caracas,5.0,Familia
+1,Mujer,59.0,Caracas,5.0,Familia
+2,Mujer,28.0,Caracas,5.0,Familia
+3,Hombre,36.0,Caracas,5.0,Familia
+4,Hombre,25.0,Miami,5.0,Familia
+5,Mujer,52.0,Venezuela,3.0,Trabajo
+6,Mujer,55.0,Madrid,5.0,Familia
+7,Mujer,58.0,Madrid,5.0,Familia
+8,Hombre,26.0,Madrid,5.0,Familia
+9,Hombre,22.0,Madrid,5.0,Familia
+10,Hombre,59.0,Miami,5.0,Familia
+11,Mujer,30.0,Caracas,5.0,Estudios de Primaria/Secundaria
+12,Hombre,60.0,Caracas,5.0,Estudios Superiores
+13,Hombre,33.0,Caracas,3.0,Aficiones comunes
+14,Mujer,52.0,Bogota,5.0,Trabajo
+15,Mujer,74.0,Madrid,5.0,Vecino/a
+16,Mujer,48.0,Madrid,4.0,Vecino/a
+17,Hombre,50.0,Madrid,5.0,Aficiones comunes
+18,Mujer,42.0,Madrid,3.0,Aficiones comunes
+19,Hombre,54.0,Madrid,5.0,Aficiones comunes
+20,Hombre,32.0,Caracas,5.0,Familia
+21,Mujer,52.0,Venezuela,3.0,Familia
+22,Hombre,60.0,Miami,5.0,Estudios de Primaria/Secundaria
+23,Mujer,22.0,Madrid,5.0,Estudios Superiores
+24,Mujer,53.0,Colombia,4.0,Trabajo
+25,Hombre,44.0,Miami,5.0,Trabajo
+26,Hombre,48.0,Mexico,5.0,Trabajo
+27,Hombre,54.0,Sudafrica,5.0,Trabajo
+28,Hombre,57.0,Venezuela,4.0,Trabajo
+29,Hombre,62.0,Venezuela,5.0,Familia

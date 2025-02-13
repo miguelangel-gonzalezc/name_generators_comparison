@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,62.0,"Merlo, Buenos Aires",3.0,Trabajo
+1,Mujer,45.0,"Lanus, Buenos Aires",4.0,Familia
+2,Hombre,45.0,"Liniers,Buenos Aires",5.0,Aficiones comunes
+3,Hombre,60.0,"Caballito, Buenos Aires",3.0,Aficiones comunes
+4,Hombre,56.0,"Caballito, Buenos Aires",4.0,Aficiones comunes
+5,Hombre,46.0,"Avellaneda, Buenos Aires",5.0,Aficiones comunes
+6,Hombre,56.0,"Avellaneda, Buenos Aires",5.0,Familia
+7,Mujer,21.0,"AVELLANEDA, buenos Aires",5.0,Familia
+8,Mujer,60.0,"Munro, Buenos Aires",4.0,A través de otra persona
+9,Mujer,65.0,"Munro., Buenos Aires",4.0,A través de otra persona
+10,Mujer,56.0,"Avellaneda, Buenos Aires",3.0,Estudios Superiores
+11,Mujer,55.0,"Londres, uk",3.0,A través de otra persona
+12,Mujer,59.0,"Avellaneda, Buenos Aires",3.0,Estudios de Primaria/Secundaria
+13,Hombre,65.0,"Tandim, Buenos Aires",3.0,Trabajo
+14,Mujer,55.0,"AVELLANEDA, BUENOS AIRES",3.0,Vecino/a
+15,Mujer,35.0,"CAPITAL FEDERAL, BUENOS AIRES",3.0,Familia
+16,Mujer,71.0,"Glew, Bjenos Aires",4.0,Familia
+17,Mujer,45.0,"Avellaneda, Buenos Aires",3.0,Trabajo
+18,Mujer,65.0,"PATERNAL, BUENOS AIRES",4.0,Trabajo
+19,Mujer,60.0,"San Isidro, Buenos Aires",4.0,A través de otra persona
+20,Mujer,58.0,Cañital Federal,3.0,A través de otra persona
+21,Mujer,63.0,Jose C. Paz,4.0,Familia
+22,Mujer,65.0,Entre Rios,4.0,Trabajo
+23,Hombre,60.0,Lanus,4.0,Trabajo
+24,Mujer,43.0,Boedo,2.0,Trabajo
+25,Mujer,85.0,AVELLANEDA,2.0,Vecino/a
+26,Mujer,85.0,Avellaneda,4.0,Familia
+27,Hombre,85.0,Avellaneda,2.0,Familia
+28,Hombre,48.0,Lanus,2.0,Familia
+29,Mujer,45.0,Avellaneda,2.0,Aficiones comunes

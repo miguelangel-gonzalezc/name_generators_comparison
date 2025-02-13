@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Hombre,44.0,Madrid,5.0,A través de otra persona
+1,Mujer,33.0,Madrid,5.0,A través de otra persona
+2,Hombre,46.0,Getxo,4.0,A través de otra persona
+3,Mujer,49.0,Getxo,5.0,A través de otra persona
+4,Hombre,78.0,Jaén ,5.0,Familia
+5,Mujer,71.0,Jaén ,5.0,Familia
+6,Hombre,40.0,Madrid,4.0,Familia
+7,Mujer,39.0,Madrid,2.0,Familia
+8,Mujer,58.0,Reino Unido,3.0,Trabajo
+9,Mujer,32.0,Madrid,3.0,Trabajo
+10,Hombre,49.0,Madrid,2.0,Trabajo
+11,Mujer,32.0,Madrid,3.0,Trabajo
+12,Mujer,41.0,Santiago de Compostela ,4.0,Otro
+13,Mujer,45.0,Barcelona ,4.0,A través de otra persona
+14,Mujer,51.0,Jaén ,4.0,Familia
+15,Mujer,55.0,Jaén ,4.0,Familia
+16,Hombre,52.0,Jaén ,2.0,Familia
+17,Hombre,74.0,Valencia ,4.0,Familia
+18,Mujer,56.0,Valencia ,3.0,Familia
+19,Hombre,55.0,Madrid,2.0,Trabajo
+20,Hombre,49.0,Madrid,3.0,Trabajo
+21,Hombre,28.0,Madrid,4.0,Trabajo
+22,Mujer,36.0,Madrid,3.0,Aficiones comunes
+23,Mujer,69.0,Brasil,4.0,Familia
+24,Hombre,42.0,Reino Unido,3.0,A través de otra persona
+25,Mujer,41.0,Reino Unido ,4.0,Aficiones comunes
+26,Hombre,48.0,Brasil,3.0,Familia
+27,Hombre,23.0,Brasil,3.0,Familia
+28,Mujer,50.0,Brasil,4.0,Familia
+29,Mujer,38.0,Brasil,2.0,Familia

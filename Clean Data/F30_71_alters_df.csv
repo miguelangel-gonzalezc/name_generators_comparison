@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,40.0,Madrid,5.0,Trabajo
+1,Hombre,62.0,Madrid,4.0,Trabajo
+2,Mujer,43.0,Madrid,3.0,Familia
+3,Hombre,49.0,Madrid,3.0,Estudios Superiores
+4,Hombre,49.0,Madrid,3.0,Estudios Superiores
+5,Hombre,49.0,Madrid,3.0,Estudios Superiores
+6,Hombre,49.0,Madrid,3.0,Estudios Superiores
+7,Hombre,40.0,Madrid,2.0,Trabajo
+8,Hombre,56.0,Madrid,3.0,Trabajo
+9,Hombre,49.0,Madrid,3.0,Estudios Superiores
+10,Hombre,49.0,Madrid,3.0,Estudios Superiores
+11,Hombre,49.0,Madrid,3.0,Estudios Superiores
+12,Hombre,49.0,Madrid,3.0,Estudios Superiores
+13,Hombre,50.0,Girona,4.0,Otro
+14,Hombre,40.0,Madrid,3.0,Trabajo
+15,Hombre,66.0,Madrid,2.0,Trabajo
+16,Mujer,49.0,Madrid,2.0,Trabajo
+17,Hombre,49.0,Madrid,2.0,Estudios Superiores
+18,Mujer,49.0,Madrid,2.0,A través de otra persona
+19,Hombre,49.0,Madrid,3.0,Estudios Superiores
+20,Mujer,46.0,Madrid,2.0,A través de otra persona
+21,Mujer,45.0,Madrid,2.0,A través de otra persona
+22,Mujer,42.0,Madrid,2.0,Trabajo
+23,Mujer,40.0,Madrid,2.0,Trabajo
+24,Mujer,30.0,Estocolmo,2.0,Trabajo
+25,Mujer,40.0,Madrid,2.0,Trabajo
+26,Mujer,44.0,Madrid,2.0,Trabajo
+27,Mujer,41.0,Talavera ,3.0,A través de otra persona
+28,Mujer,52.0,Palma de Mallorca ,4.0,Familia
+29,Hombre,55.0,Palma de Mallorca ,3.0,Familia

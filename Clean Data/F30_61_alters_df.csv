@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Hombre,45.0,Medellin,5.0,Familia
+1,Mujer,23.0,Chia,3.0,Familia
+2,Mujer,47.0,Bogotá,5.0,Trabajo
+3,Hombre,55.0,Bogotá,4.0,A través de otra persona
+4,Mujer,58.0,Bogotá,3.0,A través de otra persona
+5,Mujer,45.0,Cajica,4.0,Trabajo
+6,Mujer,53.0,Chia,5.0,Trabajo
+7,Mujer,47.0,Bogotá,5.0,A través de otra persona
+8,Mujer,63.0,Bogotá,3.0,A través de otra persona
+9,Mujer,30.0,Lobos,4.0,Trabajo
+10,Mujer,35.0,California,4.0,Trabajo
+11,Hombre,44.0,Miami,4.0,Estudios de Primaria/Secundaria
+12,Mujer,24.0,Chía,3.0,Trabajo
+13,Mujer,53.0,chia ,4.0,Trabajo
+14,Mujer,24.0,chia,3.0,A través de otra persona
+15,Mujer,36.0,Sopo,4.0,Aficiones comunes
+16,Mujer,50.0,Bogotá,3.0,Trabajo
+17,Hombre,45.0,Madrid,3.0,Aficiones comunes
+18,Mujer,37.0,Zipaquira,3.0,Aficiones comunes
+19,Mujer,58.0,chia,5.0,Familia
+20,Mujer,40.0,Medellin,3.0,Familia
+21,Mujer,47.0,Bogotá,4.0,Trabajo
+22,Mujer,36.0,Funza,4.0,A través de otra persona
+23,Mujer,46.0,Buenos Aires,5.0,A través de otra persona
+24,Hombre,51.0,Buenos Aires,5.0,A través de otra persona
+25,Mujer,45.0,Bogotá,3.0,Trabajo
+26,Mujer,14.0,Bogotá,5.0,Familia
+27,Mujer,1.0,Medellin,5.0,Familia
+28,Mujer,38.0,Bogotá,4.0,Trabajo
+29,Mujer,46.0,Quito,5.0,Estudios Superiores

@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Hombre,38.0,Alcorcón ,5.0,A través de otra persona
+1,Mujer,68.0,Navacarros,5.0,Familia
+2,Hombre,40.0,Madrid,5.0,A través de otra persona
+3,Mujer,41.0,Madrid,3.0,A través de otra persona
+4,Hombre,65.0,Mérida ,5.0,Familia
+5,Mujer,63.0,Béjar ,4.0,Familia
+6,Hombre,64.0,Béjar ,4.0,Familia
+7,Mujer,62.0,Mérida ,4.0,Familia
+8,Hombre,27.0,Mérida ,2.0,Familia
+9,Hombre,35.0,Alcorcón ,3.0,A través de otra persona
+10,Mujer,38.0,Alcorcón ,3.0,A través de otra persona
+11,Hombre,38.0,Alcorcón ,3.0,A través de otra persona
+12,Mujer,37.0,Alcorcón ,2.0,A través de otra persona
+13,Mujer,44.0,Las Rozas,3.0,Trabajo
+14,Mujer,44.0,Getafe ,1.0,Trabajo
+15,Hombre,45.0,Toro,1.0,Trabajo
+16,Hombre,38.0,Colmenar ,3.0,A través de otra persona
+17,Mujer,78.0,Alcorcón ,4.0,A través de otra persona
+18,Hombre,75.0,Alcorcón ,1.0,A través de otra persona
+19,Hombre,27.0,Madrid,2.0,Trabajo
+20,Mujer,38.0,Casteldefels ,5.0,Familia
+21,Mujer,44.0,Béjar ,2.0,A través de otra persona
+22,Hombre,58.0,Leganés ,1.0,Trabajo
+23,Mujer,38.0,Leganés ,1.0,Trabajo
+24,Mujer,38.0,Leganés ,1.0,Trabajo
+25,Mujer,60.0,Béjar ,2.0,Familia
+26,Hombre,45.0,Casteldefels,1.0,A través de otra persona
+27,Mujer,23.0,Leganés ,1.0,Aficiones comunes
+28,Mujer,35.0,Leganés ,1.0,Trabajo
+29,Hombre,81.0,Madrid,1.0,Vecino/a

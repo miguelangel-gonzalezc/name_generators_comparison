@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,47.0,Asturias,5.0,Trabajo
+1,Mujer,33.0,Toulouse,3.0,Trabajo
+2,Hombre,70.0,Palencia,5.0,Familia
+3,Mujer,70.0,Palencia,5.0,Familia
+4,Hombre,43.0,Palencia,5.0,Familia
+5,Mujer,39.0,Palencia,4.0,Familia
+6,Mujer,40.0,Asturias,3.0,Trabajo
+7,Hombre,45.0,Asturias,3.0,Trabajo
+8,Mujer,36.0,Asturias,3.0,Trabajo
+9,Hombre,36.0,Palencia,5.0,Estudios de Primaria/Secundaria
+10,Hombre,36.0,Palencia,5.0,Estudios de Primaria/Secundaria
+11,Hombre,37.0,Palencia,3.0,Estudios de Primaria/Secundaria
+12,Mujer,41.0,Palencia,4.0,A través de otra persona
+13,Mujer,37.0,Vitoria,5.0,Estudios de Primaria/Secundaria
+14,Mujer,37.0,Palencia,4.0,A través de otra persona
+15,Hombre,26.0,Toulouse,4.0,Trabajo
+16,Hombre,31.0,Toulouse,4.0,Trabajo
+17,Mujer,33.0,Toulouse,3.0,Trabajo
+18,Mujer,25.0,Toulouse,3.0,Trabajo
+19,Mujer,32.0,Toulouse,2.0,Trabajo
+20,Hombre,41.0,Madrid,2.0,Trabajo
+21,Mujer,41.0,Asturias,1.0,Trabajo
+22,Hombre,38.0,Asturias,2.0,Trabajo
+23,Mujer,38.0,Zamora,2.0,Familia
+24,Hombre,36.0,Palencia,3.0,Familia
+25,Mujer,33.0,Palencia,2.0,Familia
+26,Mujer,29.0,Toulouse,1.0,Trabajo
+27,Hombre,42.0,Toulouse,1.0,Trabajo
+28,Hombre,33.0,Toulouse,1.0,Trabajo
+29,Mujer,36.0,Toulouse,1.0,Trabajo

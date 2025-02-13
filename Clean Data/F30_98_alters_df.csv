@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,21.0,Madrid ,5.0,Estudios Superiores
+1,Hombre,22.0,Barcelona,4.0,Estudios de Primaria/Secundaria
+2,Mujer,21.0,Madrid,4.0,A través de otra persona
+3,Mujer,21.0,Madrid,4.0,A través de otra persona
+4,Hombre,22.0,Barcelona,4.0,Estudios de Primaria/Secundaria
+5,Mujer,22.0,Girona,4.0,Estudios de Primaria/Secundaria
+6,Mujer,22.0,Barcelona,3.0,Estudios de Primaria/Secundaria
+7,Hombre,22.0,Barcelona,4.0,Estudios de Primaria/Secundaria
+8,Hombre,22.0,Barcelona ñ,3.0,Estudios de Primaria/Secundaria
+9,Hombre,22.0,Girona,4.0,Estudios de Primaria/Secundaria
+10,Hombre,22.0,Girona,2.0,Estudios de Primaria/Secundaria
+11,Hombre,22.0,Girona,2.0,A través de otra persona
+12,Hombre,22.0,Girona,2.0,Estudios de Primaria/Secundaria
+13,Mujer,22.0,Barcelona,3.0,Estudios de Primaria/Secundaria
+14,Mujer,21.0,Girona,4.0,Estudios de Primaria/Secundaria
+15,Mujer,21.0,Girona,2.0,Estudios de Primaria/Secundaria
+16,Hombre,22.0,Madrid,4.0,Estudios Superiores
+17,Mujer,21.0,Madrid,4.0,Estudios Superiores
+18,Mujer,21.0,Madrid,4.0,Estudios Superiores
+19,Hombre,21.0,Madrid,4.0,Estudios Superiores
+20,Mujer,23.0,Madrid,4.0,A través de otra persona
+21,Hombre,21.0,Madrid,3.0,A través de otra persona
+22,Hombre,21.0,Madrid,3.0,Aficiones comunes
+23,Mujer,20.0,Madrid,4.0,Estudios Superiores
+24,Mujer,21.0,Madrid,4.0,Estudios Superiores
+25,Hombre,21.0,Valencia,4.0,Estudios Superiores
+26,Hombre,25.0,Bremen,3.0,Estudios Superiores
+27,Hombre,20.0,Valencia,3.0,A través de otra persona
+28,Mujer,21.0,Valencia,4.0,Estudios Superiores
+29,Hombre,22.0,Burgos,2.0,Estudios Superiores
