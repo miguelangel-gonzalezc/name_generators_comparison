@@ -1,0 +1,46 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,55.0,Ourense ,5.0,Familia
+1,Hombre,60.0,Ourense ,5.0,Familia
+2,Hombre,30.0,Holanda ,5.0,Familia
+3,Mujer,24.0,Madrid ,5.0,Familia
+4,Hombre,21.0,Madrid ,5.0,Familia
+5,Hombre,24.0,Madrid,5.0,A través de otra persona
+6,Hombre,24.0,Madrid ,4.0,A través de otra persona
+7,Hombre,24.0,Madrid ,4.0,A través de otra persona
+8,Hombre,24.0,Madrid,3.0,A través de otra persona
+9,Hombre,24.0,Madrid,3.0,A través de otra persona
+10,Mujer,24.0,Madrid ,2.0,A través de otra persona
+11,Mujer,26.0,Madrid,1.0,A través de otra persona
+12,Mujer,24.0,Madrid,2.0,A través de otra persona
+13,Mujer,25.0,Madrid,4.0,Estudios Superiores
+14,Mujer,25.0,Madrid ,3.0,A través de otra persona
+15,Mujer,25.0,Talavera de la Reina ,4.0,Estudios Superiores
+16,Hombre,24.0,Madrid ,3.0,Estudios Superiores
+17,Hombre,26.0,Madrid ,3.0,Estudios Superiores
+18,Hombre,25.0,Tenerife ,3.0,Estudios Superiores
+19,Mujer,24.0,Madid,3.0,A través de otra persona
+20,Mujer,25.0,Madrid ,3.0,Trabajo
+21,Mujer,26.0,Madrid ,3.0,Trabajo
+22,Mujer,40.0,Madrid ,3.0,Trabajo
+23,Hombre,21.0,Madrid ,2.0,Trabajo
+24,Mujer,20.0,Madrid ,2.0,Trabajo
+25,Mujer,24.0,Granada,3.0,Trabajo
+26,Hombre,28.0,Madrid ,3.0,Trabajo
+27,Mujer,21.0,Madrid ,2.0,Trabajo
+28,Mujer,21.0,Segovia,2.0,Trabajo
+29,Mujer,25.0,Madrid ,2.0,Trabajo
+30,Mujer,55.0,Madrid ,2.0,Trabajo
+31,Mujer,35.0,Madrid,2.0,Trabajo
+32,Mujer,57.0,Madrid ,2.0,Trabajo
+33,Mujer,40.0,Madrid ,1.0,Trabajo
+34,Mujer,26.0,Canadá ,2.0,Familia
+35,Mujer,28.0,Dinamarca,2.0,Familia
+36,Mujer,55.0,México ,2.0,Familia
+37,Hombre,56.0,Venezuela ,2.0,Familia
+38,Hombre,40.0,Panamá ,1.0,Familia
+39,Mujer,38.0,Miami,2.0,Familia
+40,Mujer,24.0,Ourense ,3.0,Aficiones comunes
+41,Mujer,24.0,Ourense ,2.0,Aficiones comunes
+42,Mujer,23.0,Ourense ,2.0,Aficiones comunes
+43,Mujer,24.0,Ourense ,3.0,Aficiones comunes
+44,Mujer,24.0,Ourense ,2.0,Estudios de Primaria/Secundaria

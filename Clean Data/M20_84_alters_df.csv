@@ -1,0 +1,46 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Hombre,22.0,Madrid,5.0,Otro
+1,Hombre,34.0,Alzira,4.0,Familia
+2,Hombre,56.0,Guadalajara,5.0,Familia
+3,Mujer,55.0,Guadalajara,5.0,Familia
+4,Hombre,18.0,Guadalajara,4.0,Familia
+5,Mujer,19.0,Guadalajara,3.0,Otro
+6,Mujer,51.0,Guadalajara,2.0,Otro
+7,Hombre,35.0,Valencia,4.0,Familia
+8,Hombre,22.0,Alcoy,4.0,Otro
+9,Mujer,22.0,Lugo,3.0,Otro
+10,Hombre,21.0,Lugo,3.0,Otro
+11,Mujer,21.0,Marchamalo,5.0,Estudios de Primaria/Secundaria
+12,Mujer,54.0,Alcoy,2.0,Familia
+13,Hombre,21.0,Alcalá de Henares,2.0,Estudios Superiores
+14,Mujer,21.0,León,2.0,Estudios Superiores
+15,Mujer,21.0,Madrid,2.0,Estudios Superiores
+16,Hombre,21.0,Guadalajara,2.0,Estudios de Primaria/Secundaria
+17,Mujer,21.0,Guadalajara,3.0,Estudios de Primaria/Secundaria
+18,Mujer,21.0,Guadalajara,3.0,Estudios de Primaria/Secundaria
+19,Mujer,33.0,Granada,4.0,Familia
+20,Mujer,31.0,Alcoy,4.0,Familia
+21,Mujer,27.0,Alzira,2.0,Familia
+22,Mujer,29.0,Yecla,3.0,Familia
+23,Mujer,14.0,Guadalajara,4.0,Familia
+24,Hombre,33.0,Alcoy,3.0,Familia
+25,Mujer,30.0,Alcoy,2.0,Familia
+26,Hombre,48.0,Guadalajara,2.0,Otro
+27,Mujer,15.0,Madrid,1.0,A través de otra persona
+28,Mujer,20.0,Madrid,1.0,Otro
+29,Hombre,51.0,Madrid,1.0,A través de otra persona
+30,Mujer,24.0,Madrid,1.0,A través de otra persona
+31,Mujer,48.0,Guadalajara,3.0,Otro
+32,Hombre,50.0,Cabanillas del Campo,1.0,Otro
+33,Mujer,50.0,Guadalajara,1.0,Otro
+34,Mujer,17.0,Guadalajara,2.0,Otro
+35,Mujer,17.0,Cabanillas del Campo,1.0,Otro
+36,Mujer,15.0,Cabanillas del Campo,2.0,Otro
+37,Mujer,23.0,Alcoy,2.0,Familia
+38,Hombre,34.0,Granada,3.0,Familia
+39,Hombre,34.0,Alcoy,3.0,Familia
+40,Hombre,25.0,Yecla,2.0,Familia
+41,Mujer,21.0,Madrid,2.0,Estudios Superiores
+42,Mujer,21.0,Guadalajara,3.0,Estudios Superiores
+43,Mujer,22.0,Guadalajara,1.0,Otro
+44,Hombre,55.0,Guadalajara,1.0,Otro

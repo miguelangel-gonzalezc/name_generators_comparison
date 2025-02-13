@@ -1,0 +1,46 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,48.0,"Tres Cantos, Madrid ",5.0,Trabajo
+1,Hombre,46.0,Madrid ,3.0,Trabajo
+2,Hombre,51.0,"Tres Cantos, Madrid ",5.0,Familia
+3,Hombre,41.0,"Tres Cantos, Madrid ",2.0,Otro
+4,Hombre,44.0,"Tres Cantos, Madrid ",2.0,Otro
+5,Hombre,41.0,Tres Cantos ,2.0,Otro
+6,Hombre,52.0,Madrid ,5.0,Familia
+7,Hombre,84.0,"San Sebastián de los Reyes, Madrid ",5.0,Familia
+8,Hombre,40.0,"Tres Cantos, Madrid ",2.0,Otro
+9,Hombre,43.0,"Tres Cantos, Madrid ",2.0,Otro
+10,Hombre,44.0,"Tres Cantos, Madrid ",2.0,Otro
+11,Hombre,50.0,"Tres Cantos, Madrid ",2.0,Otro
+12,Hombre,49.0,"Alcobendas, Madrid ",1.0,Trabajo
+13,Hombre,50.0,"Rivas Vaciamadrid, Madrid ",2.0,Trabajo
+14,Mujer,40.0,Madrid ,1.0,Trabajo
+15,Mujer,54.0,Madrid ,1.0,Trabajo
+16,Mujer,56.0,Madrid ,1.0,Trabajo
+17,Mujer,37.0,Madrid ,1.0,Trabajo
+18,Mujer,57.0,Madrid ,1.0,Trabajo
+19,Hombre,40.0,Madrid ,1.0,Trabajo
+20,Mujer,52.0,Aranjuez ,1.0,Trabajo
+21,Mujer,55.0,Madrid ,1.0,Trabajo
+22,Mujer,55.0,Alcobendas ,1.0,Trabajo
+23,Hombre,49.0,"San Sebastián de los Reyes, Madrid ",1.0,Trabajo
+24,Mujer,47.0,Madrid ,1.0,Trabajo
+25,Hombre,48.0,Madrid ,1.0,Trabajo
+26,Mujer,49.0,País Vasco ,3.0,Familia
+27,Hombre,52.0,Valladolid ,3.0,Familia
+28,Hombre,49.0,Alcobendas ,1.0,Trabajo
+29,Hombre,65.0,Madrid ,1.0,Trabajo
+30,Hombre,50.0,Madrid ,1.0,Trabajo
+31,Mujer,54.0,Madrid ,1.0,Trabajo
+32,Hombre,54.0,Madrid ,2.0,Trabajo
+33,Hombre,51.0,"Getafe, Madrid ",1.0,Trabajo
+34,Mujer,59.0,Getafe ,1.0,Trabajo
+35,Mujer,51.0,Madrid ,1.0,Trabajo
+36,Mujer,52.0,"San Sebastián de los Reyes, Madrid ",1.0,Trabajo
+37,,,,,
+38,,,,,
+39,,,,,
+40,,,,,
+41,,,,,
+42,,,,,
+43,,,,,
+44,,,,,

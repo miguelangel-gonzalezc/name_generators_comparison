@@ -1,0 +1,46 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,58.0,Madrid ,2.0,Vecino/a
+1,Hombre,64.0,Madrid ,2.0,Vecino/a
+2,Hombre,69.0,Valencia ,2.0,Vecino/a
+3,Mujer,63.0,Valencia ,2.0,Vecino/a
+4,Hombre,79.0,Madrid ,2.0,Vecino/a
+5,Mujer,67.0,Madrid ,2.0,Vecino/a
+6,Hombre,23.0,Madrid ,5.0,Familia
+7,Mujer,25.0,Madrid ,5.0,Familia
+8,Hombre,57.0,Madrid ,5.0,Familia
+9,Hombre,54.0,Madrid ,5.0,Familia
+10,Hombre,76.0,Alicante ,5.0,Familia
+11,Mujer,45.0,Alicante ,5.0,Familia
+12,Mujer,58.0,Madrid ,3.0,Trabajo
+13,Mujer,50.0,Madrid ,3.0,Trabajo
+14,Mujer,61.0,Madrid ,2.0,Vecino/a
+15,Mujer,50.0,Madrid ,3.0,Trabajo
+16,Mujer,58.0,Madrid ,3.0,Trabajo
+17,Hombre,45.0,Madrid ,2.0,Trabajo
+18,Hombre,38.0,Madrid ,2.0,Trabajo
+19,Mujer,50.0,Madrid ,2.0,Aficiones comunes
+20,Hombre,75.0,Madrid ,3.0,Vecino/a
+21,Hombre,50.0,Madrid ,2.0,Trabajo
+22,Mujer,45.0,Madrid ,3.0,Trabajo
+23,Hombre,54.0,Madrid ,2.0,Trabajo
+24,Hombre,45.0,Madrid ,2.0,Trabajo
+25,Hombre,48.0,Madrid ,2.0,Trabajo
+26,Mujer,35.0,Madrid ,2.0,Trabajo
+27,Mujer,40.0,Madrid ,2.0,Trabajo
+28,Mujer,62.0,Madrid ,2.0,Aficiones comunes
+29,Mujer,56.0,Madrid ,2.0,Aficiones comunes
+30,Mujer,45.0,Madrid ,3.0,Trabajo
+31,Hombre,59.0,Jaén ,4.0,Familia
+32,Mujer,63.0,Madrid ,3.0,Familia
+33,Mujer,55.0,Madrid ,2.0,Trabajo
+34,Hombre,60.0,Madrid ,2.0,Trabajo
+35,Mujer,56.0,Madrid ,4.0,Trabajo
+36,,,,,
+37,,,,,
+38,,,,,
+39,,,,,
+40,,,,,
+41,,,,,
+42,,,,,
+43,,,,,
+44,,,,,
