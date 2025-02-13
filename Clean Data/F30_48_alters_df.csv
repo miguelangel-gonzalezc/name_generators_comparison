@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Hombre,57.0,Alicante,5.0,Familia
+1,Mujer,56.0,Alicante,5.0,Familia
+2,Hombre,21.0,Alicante,5.0,Familia
+3,Hombre,25.0,Valencia,5.0,Estudios de Primaria/Secundaria
+4,Hombre,26.0,Madrid,5.0,Estudios Superiores
+5,Hombre,27.0,Madrid,5.0,A través de otra persona
+6,Hombre,25.0,Alicante,4.0,Estudios de Primaria/Secundaria
+7,Hombre,27.0,Alemania,4.0,Estudios Superiores
+8,Hombre,28.0,México,3.0,Estudios Superiores
+9,Hombre,88.0,Alicante,5.0,Familia
+10,Mujer,80.0,Alicante,5.0,Familia
+11,Mujer,84.0,Alicante,5.0,Familia
+12,Hombre,24.0,Almería,4.0,Trabajo
+13,Hombre,34.0,Alicante,4.0,A través de otra persona
+14,Hombre,22.0,Alemania,3.0,Estudios Superiores
+15,Hombre,22.0,Alemania,3.0,Estudios Superiores
+16,Hombre,28.0,Alemania,3.0,Estudios Superiores
+17,Hombre,27.0,Alicante,3.0,Aficiones comunes
+18,Mujer,21.0,Alicante,3.0,A través de otra persona
+19,Hombre,35.0,Madrid,3.0,Trabajo
+20,Hombre,24.0,Madrid,3.0,Estudios Superiores
+21,Hombre,26.0,Alemania,3.0,Estudios Superiores
+22,Hombre,25.0,Italia,3.0,Estudios Superiores
+23,Hombre,26.0,Madrid,3.0,Estudios Superiores
+24,Hombre,33.0,Alemania,2.0,Aficiones comunes
+25,Hombre,26.0,Alicante,2.0,A través de otra persona
+26,Hombre,27.0,Alicante,2.0,Aficiones comunes
+27,Hombre,32.0,Alicante,2.0,Aficiones comunes
+28,Mujer,22.0,Alemania,2.0,Vecino/a
+29,Mujer,22.0,Salamanca,2.0,A través de otra persona

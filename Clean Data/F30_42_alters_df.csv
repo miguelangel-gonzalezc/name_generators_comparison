@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,62,Sevilla,2,Trabajo
+1,Mujer,61,Sevilla,4,Trabajo
+2,Mujer,57,Sevilla,4,Trabajo
+3,Mujer,59,Sevilla,4,Trabajo
+4,Hombre,61,Sevilla,4,Trabajo
+5,Hombre,58,Sevilla ,2,Trabajo
+6,Hombre,61,Sevilla ,4,Trabajo
+7,Mujer,48,Sevilla ,4,Trabajo
+8,Mujer,33,Sevilla ,5,Familia
+9,Hombre,32,Sevilla,4,A través de otra persona
+10,Hombre,33,Sevilla ,5,Familia
+11,Hombre,33,Sevilla,5,Familia
+12,Mujer,63,Sevilla ,5,Familia
+13,Mujer,44,Sevilla ,4,Vecino/a
+14,Mujer,36,Sevilla ,4,Vecino/a
+15,Hombre,53,Sevilla ,4,Vecino/a
+16,Mujer,42,Sevilla ,4,Vecino/a
+17,Hombre,52,Sevilla ,4,Vecino/a
+18,Mujer,44,Sevilla ,4,Vecino/a
+19,Hombre,34,Sevilla,4,Trabajo
+20,Hombre,46,Sevilla ,4,Vecino/a
+21,Mujer,60,Sevilla,4,Trabajo
+22,Hombre,67,Sevilla ,4,Vecino/a
+23,Mujer,8,Sevilla ,5,Vecino/a
+24,Hombre,32,Sevilla,4,Vecino/a
+25,Mujer,31,Sevilla,4,Vecino/a
+26,Mujer,44,Sevilla ,4,Vecino/a
+27,Hombre,46,Sevilla ,4,Vecino/a
+28,Mujer,66,Sevilla ,4,Vecino/a
+29,Hombre,37,Sevilla ,4,A través de otra persona

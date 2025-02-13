@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,20,Madrid,5,Estudios de Primaria/Secundaria
+1,Mujer,55,Madrid ,5,Familia
+2,Hombre,54,Madrid,5,Familia
+3,Hombre,25,Madrid,4,Familia
+4,Hombre,20,Madrid,3,Estudios Superiores
+5,Mujer,25,Madrid,3,Familia
+6,Hombre,16,Madrid,3,Familia
+7,Hombre,21,Madrid ,3,Estudios de Primaria/Secundaria
+8,Mujer,20,Madrid,4,Estudios Superiores
+9,Mujer,21,Madrid,2,Estudios Superiores
+10,Mujer,20,Tenerife,2,Estudios Superiores
+11,Hombre,20,Barcelona,2,Estudios de Primaria/Secundaria
+12,Mujer,77,Madrid,3,Familia
+13,Hombre,77,Madrid,3,Familia
+14,Mujer,44,Madrid,3,Familia
+15,Mujer,34,Londres,3,Vecino/a
+16,Hombre,32,Madrid,4,A través de otra persona
+17,Hombre,33,Valencia,4,Aficiones comunes
+18,Mujer,57,Málaga ,1,Trabajo
+19,Hombre,23,Madrid,5,Otro
+20,Hombre,43,Segovia,2,Estudios Superiores
+21,Hombre,22,Santander,3,Estudios Superiores
+22,Mujer,24,Barcelona,2,Estudios de Primaria/Secundaria
+23,Mujer,24,Zaragoza,4,Aficiones comunes
+24,Hombre,22,Madrid,4,Estudios Superiores
+25,Mujer,19,Castellón,3,A través de otra persona
+26,Mujer,22,Madrid,4,Aficiones comunes
+27,Hombre,33,Estados unidos,3,Aficiones comunes
+28,Mujer,23,Baleares,4,Trabajo
+29,Hombre,26,Madrid,4,Familia

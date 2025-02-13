@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,24,Madrid,5,Otro
+1,Hombre,26,Madrid ,5,Familia
+2,Hombre,63,Madrid,4,Familia
+3,Hombre,28,Madrid ,2,Estudios Superiores
+4,Hombre,28,Madrid ,1,Estudios Superiores
+5,Mujer,70,Madrid,3,Familia
+6,Hombre,40,Alicante ,2,Trabajo
+7,Hombre,40,Madrid ,3,Trabajo
+8,Hombre,24,Madrid ,5,Familia
+9,Hombre,50,Madrid ,2,Trabajo
+10,Mujer,32,Castilla La Mancha,3,A través de otra persona
+11,Mujer,20,Murcia,3,A través de otra persona
+12,Hombre,60,Murcia,4,Familia
+13,Hombre,27,Madrid ,3,Estudios Superiores
+14,Mujer,25,Madrid ,3,A través de otra persona
+15,Mujer,24,Madrid ,3,Familia
+16,Hombre,44,Madrid ,5,Familia
+17,Hombre,24,Albacete,2,Aficiones comunes
+18,Mujer,24,Albacete,2,A través de otra persona
+19,Mujer,80,Madrid,3,Familia
+20,Hombre,60,Madrid,2,Trabajo
+21,Hombre,45,Castilla Y León ,4,Familia
+22,Hombre,35,Castilla La Mancha,3,A través de otra persona
+23,Hombre,27,Madrid,2,A través de otra persona
+24,Hombre,26,Madrid,3,A través de otra persona
+25,Hombre,25,Madrid,3,A través de otra persona
+26,Hombre,25,Madrid,3,A través de otra persona
+27,Hombre,25,Madrid,3,A través de otra persona
+28,Hombre,24,Murcia,4,A través de otra persona
+29,Hombre,40,Madrid,3,Trabajo

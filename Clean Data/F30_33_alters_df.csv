@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,23,Aranjuez,5,Estudios de Primaria/Secundaria
+1,Mujer,23,aranjuez,5,Estudios de Primaria/Secundaria
+2,Mujer,23,Aranjuez,5,A través de otra persona
+3,Mujer,23,Aranjuez,3,Estudios de Primaria/Secundaria
+4,Mujer,23,Getafe,2,Estudios Superiores
+5,Mujer,23,Seseña,2,Estudios Superiores
+6,Mujer,22,Yepes,4,Estudios Superiores
+7,Mujer,24,Aranjuez,1,A través de otra persona
+8,Mujer,20,Aranjuez,1,A través de otra persona
+9,Hombre,23,Seseña,1,Estudios Superiores
+10,Mujer,23,Madrid,1,Estudios Superiores
+11,Hombre,56,Aranjuez,1,A través de otra persona
+12,Mujer,53,Aranjuez,2,A través de otra persona
+13,Otro,23,Aranjuez,2,Estudios de Primaria/Secundaria
+14,Hombre,28,Cadiz,4,Familia
+15,Mujer,60,Cadiz,4,Familia
+16,Mujer,86,Aranjuez,5,Familia
+17,Hombre,84,Aranjuez,5,Familia
+18,Hombre,56,Aranjuez,4,Familia
+19,Mujer,54,Aranjuez,4,Familia
+20,Mujer,64,Ontigola,3,Familia
+21,Mujer,34,Ontigola,4,Familia
+22,Mujer,24,Aranjuez,3,A través de otra persona
+23,Mujer,22,Aranjuez,2,A través de otra persona
+24,Mujer,22,Sevilla,4,Estudios Superiores
+25,Hombre,26,Ocaña,3,A través de otra persona
+26,Hombre,22,Leganes,4,Estudios Superiores
+27,Hombre,27,Madrid,2,Otro
+28,Hombre,23,Madrid,2,Otro
+29,Hombre,23,Aranjuez,3,Aficiones comunes

@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,19,Madrid,4,Estudios Superiores
+1,Mujer,19,Madrid,4,A través de otra persona
+2,Mujer,47,Madrid,5,Familia
+3,Hombre,19,Sacedón ,5,Otro
+4,Mujer,20,Madrid,4,Estudios de Primaria/Secundaria
+5,Hombre,17,Madrid,3,Familia
+6,Mujer,14,Madrid,3,Familia
+7,Hombre,17,Madrid,4,Familia
+8,Hombre,50,Madrid,3,Familia
+9,Hombre,17,Sacedón,3,A través de otra persona
+10,Mujer,20,Madrid,2,Estudios Superiores
+11,Mujer,19,Málaga ,3,Trabajo
+12,Hombre,19,Madrid,3,Trabajo
+13,Mujer,18,Álava ,3,Trabajo
+14,Mujer,19,Zaragoza ,3,Trabajo
+15,Hombre,20,Madrid,1,Trabajo
+16,Mujer,19,Navarra,2,A través de otra persona
+17,Hombre,20,Sacedón,2,A través de otra persona
+18,Hombre,20,Asturias,2,Estudios Superiores
+19,Mujer,20,Asturias,2,Estudios Superiores
+20,Mujer,19,Madrid,2,Familia
+21,Hombre,20,Madrid,2,Estudios Superiores
+22,Mujer,20,Sevilla,3,Aficiones comunes
+23,Hombre,21,Madrid,1,Estudios Superiores
+24,Mujer,20,Canarias,3,Estudios Superiores
+25,Mujer,22,Madrid,1,Estudios Superiores
+26,Mujer,20,Madrid,1,Estudios Superiores
+27,Hombre,20,Madrid,1,Estudios Superiores
+28,Hombre,20,Madrid,1,Estudios Superiores
+29,Mujer,23,Cádiz ,2,Estudios Superiores

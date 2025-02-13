@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,30,Malaga,5,A través de otra persona
+1,Mujer,30,Malaga,5,Estudios de Primaria/Secundaria
+2,Mujer,32,Malaga,5,A través de otra persona
+3,Mujer,31,Malaga,4,Estudios Superiores
+4,Mujer,29,Malaga,3,A través de otra persona
+5,Mujer,29,Malaga,3,A través de otra persona
+6,Mujer,30,Malaga,2,A través de otra persona
+7,Mujer,31,Madris,5,Estudios Superiores
+8,Mujer,37,Almeria,4,Trabajo
+9,Mujer,34,Madrid,5,Trabajo
+10,Hombre,29,Bilbao,5,Trabajo
+11,Hombre,33,Gran canaria ,5,Otro
+12,Hombre,27,Madrid,4,Familia
+13,Mujer,32,Malaga,2,Estudios de Primaria/Secundaria
+14,Mujer,32,Malaga,1,Estudios de Primaria/Secundaria
+15,Mujer,32,Malaga ,1,Estudios de Primaria/Secundaria
+16,Mujer,30,Malaga,4,Estudios Superiores
+17,Mujer,32,Malaga,5,Estudios Superiores
+18,Mujer,60,Malaga,4,Familia
+19,Hombre,71,Malaga,2,Familia
+20,Mujer,42,Madrid,5,Trabajo
+21,Mujer,27,Madrid,4,Trabajo
+22,Mujer,29,Madrid,3,Trabajo
+23,Hombre,28,Madrid,2,Trabajo
+24,Mujer,29,Barcelona,5,Otro
+25,Mujer,29,Malaga,2,Otro
+26,Mujer,52,Madrid,3,Trabajo
+27,Mujer,29,Madrid,4,Estudios Superiores
+28,Mujer,32,Madrid,3,Otro
+29,Mujer,36,Madrid,3,Otro

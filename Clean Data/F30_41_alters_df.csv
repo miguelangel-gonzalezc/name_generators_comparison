@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,23,León,5,Familia
+1,Mujer,21,León,5,Estudios de Primaria/Secundaria
+2,Mujer,21,León,5,Estudios de Primaria/Secundaria
+3,Mujer,22,León,3,Estudios de Primaria/Secundaria
+4,Hombre,56,León,5,Familia
+5,Mujer,51,León,5,Familia
+6,Mujer,21,Lyon,3,Estudios de Primaria/Secundaria
+7,Mujer,22,Madrid,3,Estudios de Primaria/Secundaria
+8,Mujer,21,León,3,Estudios de Primaria/Secundaria
+9,Mujer,22,Madrid,5,Otro
+10,Hombre,21,Gran Canaria,3,Estudios Superiores
+11,Mujer,21,Córdoba,4,Estudios Superiores
+12,Mujer,20,Córdoba,4,A través de otra persona
+13,Mujer,21,Córdoba,3,Estudios Superiores
+14,Mujer,22,Madrid,5,Otro
+15,Mujer,23,Madrid,5,Otro
+16,Mujer,22,Valladolid,5,Otro
+17,Hombre,21,Ávila,5,Otro
+18,Hombre,25,Ciudad de México,5,Otro
+19,Mujer,21,Sevilla,5,Otro
+20,Mujer,20,Bilbao,5,Otro
+21,Mujer,20,Madrid,5,Otro
+22,Mujer,21,Madrid,3,Otro
+23,Mujer,21,Córdoba,4,Otro
+24,Mujer,24,Barcelona,3,Otro
+25,Mujer,82,León,5,Familia
+26,Mujer,24,León,2,A través de otra persona
+27,Mujer,21,Madrid,1,Otro
+28,Mujer,21,Madrid,1,Otro
+29,Hombre,23,Córdoba,1,Otro

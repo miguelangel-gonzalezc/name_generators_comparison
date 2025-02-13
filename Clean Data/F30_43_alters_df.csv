@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,54,Madrid ,5,Familia
+1,Hombre,19,Madrid ,5,Familia
+2,Hombre,41,Madrid ,5,Trabajo
+3,Hombre,54,Alicante ,5,Familia
+4,Mujer,24,Madrid,4,Estudios Superiores
+5,Mujer,24,Madrid,4,Estudios Superiores
+6,Mujer,28,Madrid,3,Trabajo
+7,Mujer,24,Madrid ,3,Estudios Superiores
+8,Hombre,35,Madrid ,2,Trabajo
+9,Hombre,29,Madrid,3,Trabajo
+10,Hombre,28,Madrid,3,Trabajo
+11,Hombre,40,Madrid,3,Trabajo
+12,Mujer,86,Alicante,5,Familia
+13,Mujer,34,Madrid,4,Trabajo
+14,Mujer,37,Madrid ,4,Trabajo
+15,Hombre,45,Madrid,1,Trabajo
+16,Hombre,50,Madrid ,2,Trabajo
+17,Mujer,30,Madrid,3,Aficiones comunes
+18,Hombre,41,Madrid,2,Trabajo
+19,Hombre,25,Madrid,4,A través de otra persona
+20,Hombre,41,Madrid,2,Trabajo
+21,Hombre,41,Madrid,3,Trabajo
+22,Hombre,41,Madrid,2,Trabajo
+23,Hombre,64,Madrid,3,Trabajo
+24,Hombre,63,Madrid,1,Trabajo
+25,Hombre,49,Madrid,3,Aficiones comunes
+26,Mujer,16,Madrid,3,Aficiones comunes
+27,Mujer,64,Madrid,3,Trabajo
+28,Hombre,50,Madrid,3,Trabajo
+29,Hombre,54,Madrid,3,Trabajo

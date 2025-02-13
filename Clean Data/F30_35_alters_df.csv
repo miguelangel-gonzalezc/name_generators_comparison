@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,61,madrid,5,Familia
+1,Hombre,64,Madrid,5,Familia
+2,Hombre,28,Madrid,5,Familia
+3,Hombre,50,Madrid,4,Familia
+4,Mujer,55,Madrid,5,Familia
+5,Hombre,58,Madrid,4,Familia
+6,Mujer,48,Madrid,4,Familia
+7,Hombre,17,Madrid,3,Familia
+8,Mujer,20,Madrid,4,Familia
+9,Hombre,18,Madrid,4,Familia
+10,Mujer,15,madrid,4,Familia
+11,Hombre,58,trinidad y tobago,4,Familia
+12,Mujer,25,madrid,4,Estudios de Primaria/Secundaria
+13,Mujer,26,grecia,5,Estudios Superiores
+14,Mujer,26,madrid,4,Estudios de Primaria/Secundaria
+15,Mujer,27,madrid,4,Estudios de Primaria/Secundaria
+16,Mujer,26,madrid,3,Estudios de Primaria/Secundaria
+17,Mujer,26,francia,3,Trabajo
+18,Mujer,26,madrid,3,Estudios Superiores
+19,Mujer,26,madrid,2,Estudios Superiores
+20,Mujer,50,madrid,1,Trabajo
+21,Hombre,58,barcelona,4,Familia
+22,Mujer,26,madrid,3,Aficiones comunes
+23,Mujer,26,madrid,3,Aficiones comunes
+24,Mujer,50,madrid,1,Trabajo
+25,Hombre,55,madrid,1,Trabajo
+26,Mujer,45,holanda,1,Trabajo
+27,Mujer,26,bruselas,4,Estudios Superiores
+28,Mujer,27,valencia,4,Estudios Superiores
+29,Mujer,26,croacia,2,Estudios Superiores

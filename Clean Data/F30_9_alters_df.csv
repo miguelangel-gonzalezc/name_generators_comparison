@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Hombre,27,Barcelona,4,Otro
+1,Otro,25,Malmö,4,A través de otra persona
+2,Mujer,27,Almería,4,Estudios de Primaria/Secundaria
+3,Mujer,27,Almería,4,Estudios de Primaria/Secundaria
+4,Mujer,32,Madrid,5,A través de otra persona
+5,Mujer,27,Madrid,5,Aficiones comunes
+6,Hombre,25,Madrid,5,Aficiones comunes
+7,Mujer,25,Madrid,4,Aficiones comunes
+8,Hombre,38,Madrid,4,Aficiones comunes
+9,Mujer,36,Madrid,3,Aficiones comunes
+10,Mujer,26,Almería,4,A través de otra persona
+11,Mujer,25,Almería,3,Otro
+12,Mujer,26,Madrid,3,Aficiones comunes
+13,Mujer,30,Madrid,3,Otro
+14,Mujer,29,Madrid,4,A través de otra persona
+15,Hombre,30,Madrid,3,Trabajo
+16,Hombre,28,Pekín,3,A través de otra persona
+17,Hombre,24,Ciudad de México,3,Trabajo
+18,Mujer,28,Barcelona,3,Trabajo
+19,Mujer,28,Seúl,4,Otro
+20,Hombre,26,Doha,4,A través de otra persona
+21,Hombre,24,Madrid,3,Estudios Superiores
+22,Mujer,25,Madrid,3,Aficiones comunes
+23,Hombre,24,Madrid,4,Aficiones comunes
+24,Mujer,37,Sydney,2,Estudios Superiores
+25,Mujer,26,Bruselas,2,Aficiones comunes
+26,Mujer,26,Almería,2,A través de otra persona
+27,Mujer,26,Almería,2,A través de otra persona
+28,Mujer,28,Beirut,2,Aficiones comunes
+29,Mujer,32,Madrid,3,Estudios Superiores

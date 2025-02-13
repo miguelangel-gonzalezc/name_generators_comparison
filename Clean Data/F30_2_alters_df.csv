@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Hombre,24,Leganés ,5,Aficiones comunes
+1,Mujer,22,Madrid,5,Aficiones comunes
+2,Mujer,60,Madrid,5,Familia
+3,Hombre,63,Madrid,5,Familia
+4,Mujer,22,Madrid,3,Aficiones comunes
+5,Hombre,23,Madrid,5,Aficiones comunes
+6,Hombre,23,Madrid,3,Aficiones comunes
+7,Hombre,25,Madrid,4,Aficiones comunes
+8,Mujer,19,Madrid,3,Aficiones comunes
+9,Mujer,26,Madrid,2,Trabajo
+10,Mujer,31,Madrid,2,Estudios de Primaria/Secundaria
+11,Mujer,25,Madrid,3,Aficiones comunes
+12,Mujer,30,Madrid,4,Trabajo
+13,Mujer,26,Madrid ,5,Trabajo
+14,Mujer,23,Madrid,4,Aficiones comunes
+15,Mujer,23,Madrid,4,Aficiones comunes
+16,Hombre,19,Madrid,4,Aficiones comunes
+17,Mujer,23,Madrid,5,Aficiones comunes
+18,Mujer,23,Madrid,5,Aficiones comunes
+19,Mujer,23,Madrid,3,Aficiones comunes
+20,Mujer,19,Madrid,3,Aficiones comunes
+21,Hombre,23,Madrid,3,Aficiones comunes
+22,Hombre,23,Madrid,4,Aficiones comunes
+23,Mujer,23,Leganés ,3,Aficiones comunes
+24,Hombre,23,Leganés ,4,Aficiones comunes
+25,Mujer,30,Madrid,2,Trabajo
+26,Mujer,27,Madrid,2,Trabajo
+27,Mujer,38,Madrid,2,Trabajo
+28,Hombre,83,Madrid,1,Aficiones comunes
+29,Hombre,30,Madrid,2,Familia

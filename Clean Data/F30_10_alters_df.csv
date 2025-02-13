@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,27,Jaén ,2,Estudios Superiores
+1,Mujer,25,Madrid,5,Otro
+2,Mujer,29,Madrid,1,Trabajo
+3,Mujer,26,Madrid,1,Trabajo
+4,Hombre,37,Alemania ,2,A través de otra persona
+5,Hombre,59,Asturias,1,A través de otra persona
+6,Hombre,20,Mallorca ,1,Trabajo
+7,Otro,30,Madrid,1,A través de otra persona
+8,Hombre,25,Madrid,2,Trabajo
+9,Otro,32,Granada,2,A través de otra persona
+10,Hombre,28,Brasil,1,A través de otra persona
+11,Hombre,27,China,1,Estudios Superiores
+12,Hombre,59,Madrid,5,Familia
+13,Mujer,59,Madrid,5,Familia
+14,Hombre,25,Madrid,4,Vecino/a
+15,Hombre,29,Madrid,4,Familia
+16,Hombre,38,Marbella,1,A través de otra persona
+17,Mujer,57,Madrid,4,Familia
+18,Mujer,84,Madrid,4,Familia
+19,Mujer,82,Madrid,5,Familia
+20,Mujer,39,Madrid,4,A través de otra persona
+21,Hombre,35,Madrid,2,Trabajo
+22,Hombre,78,Madrid,1,Trabajo
+23,Mujer,35,Palencia,2,Trabajo
+24,Hombre,35,Madrid,5,A través de otra persona
+25,Mujer,26,Madrid,4,A través de otra persona
+26,Mujer,29,Madrid,4,A través de otra persona
+27,Mujer,25,Madrid,3,Estudios Superiores
+28,Otro,29,Galicia,1,A través de otra persona
+29,Mujer,27,Valencia,1,Estudios Superiores

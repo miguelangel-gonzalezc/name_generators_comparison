@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,24,Madrid,5,Familia
+1,Mujer,26,Barcelona,4,Vecino/a
+2,Hombre,25,Madrid,3,Vecino/a
+3,Mujer,27,Madrid,4,Estudios Superiores
+4,Mujer,26,Madrid,4,Estudios Superiores
+5,Hombre,26,Madrid,3,Estudios Superiores
+6,Mujer,60,Madrid,5,Familia
+7,Mujer,32,Madrid,2,Familia
+8,Mujer,30,Madrid,1,Trabajo
+9,Hombre,26,Gran Canaria,2,Vecino/a
+10,Hombre,27,Madrid,3,Estudios Superiores
+11,Mujer,24,Madrid,4,Aficiones comunes
+12,Mujer,26,Madrid,4,Aficiones comunes
+13,Hombre,27,Chicago,3,Estudios de Primaria/Secundaria
+14,Mujer,26,Madrid,4,Estudios de Primaria/Secundaria
+15,Mujer,27,Madrid,3,Estudios de Primaria/Secundaria
+16,Mujer,24,Madrid,2,Aficiones comunes
+17,Hombre,26,Madrid,1,Estudios Superiores
+18,Hombre,26,Madrid,2,Estudios Superiores
+19,Mujer,27,Madrid,2,Estudios Superiores
+20,Mujer,38,Madrid,2,Familia
+21,Hombre,28,Paris,2,Familia
+22,Hombre,67,Madrid,4,Familia
+23,Mujer,29,Madrid,3,Aficiones comunes
+24,Mujer,24,Bilbao,2,Aficiones comunes
+25,Mujer,26,Madrid,2,Estudios de Primaria/Secundaria
+26,Mujer,27,Madrid,1,A través de otra persona
+27,Mujer,26,Bilbao,3,A través de otra persona
+28,Mujer,23,Madrid,3,Aficiones comunes
+29,Mujer,25,Madrid,3,Aficiones comunes

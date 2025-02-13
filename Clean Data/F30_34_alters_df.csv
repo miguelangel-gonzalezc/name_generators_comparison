@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Hombre,22,madrid,5,Estudios Superiores
+1,Mujer,22,madrid,5,Estudios Superiores
+2,Hombre,22,madrid,5,Estudios Superiores
+3,Hombre,22,madrid,4,Estudios Superiores
+4,Mujer,25,madrid,4,Otro
+5,Hombre,24,madrid,4,Otro
+6,Hombre,26,madrid,3,Estudios Superiores
+7,Mujer,24,madrid,2,Aficiones comunes
+8,Mujer,22,madrid,2,A través de otra persona
+9,Mujer,22,toledo,2,Aficiones comunes
+10,Mujer,23,madrid,2,A través de otra persona
+11,Hombre,24,madrid,2,Estudios Superiores
+12,Hombre,25,madrid,2,Aficiones comunes
+13,Hombre,21,madrid,2,Aficiones comunes
+14,Hombre,20,madrid,2,Aficiones comunes
+15,Mujer,24,madrid,1,Aficiones comunes
+16,Mujer,25,madrid,2,Aficiones comunes
+17,Hombre,22,madrid,2,Estudios Superiores
+18,Hombre,23,toledo,1,A través de otra persona
+19,Mujer,26,galicia,1,A través de otra persona
+20,Mujer,32,madrid,1,Estudios Superiores
+21,Hombre,23,madrid,2,A través de otra persona
+22,Hombre,56,toledo,1,Familia
+23,Mujer,56,madrid,1,Familia
+24,Hombre,25,toledo,1,Familia
+25,Mujer,45,madrid,1,Vecino/a
+26,Mujer,21,madrid,1,Estudios de Primaria/Secundaria
+27,Mujer,28,toledo,1,A través de otra persona
+28,Mujer,20,madrid,1,Otro
+29,Mujer,24,madrid,1,Estudios de Primaria/Secundaria

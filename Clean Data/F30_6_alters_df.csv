@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,52,Parla,5,Aficiones comunes
+1,Mujer,79,Parla,5,Familia
+2,Hombre,48,Brunete,5,Familia
+3,Hombre,25,Parla,4,Aficiones comunes
+4,Mujer,28,Parla,3,Aficiones comunes
+5,Mujer,28,Parla,3,Aficiones comunes
+6,Mujer,38,Brunete,5,Familia
+7,Mujer,28,Parla,3,Aficiones comunes
+8,Mujer,17,Parla,4,Aficiones comunes
+9,Mujer,50,Getafe,5,Familia
+10,Hombre,54,Getafe,5,Familia
+11,Hombre,28,Parla,4,Aficiones comunes
+12,Mujer,25,Parla,4,Aficiones comunes
+13,Mujer,41,Parla,5,Aficiones comunes
+14,Mujer,17,Parla,4,Aficiones comunes
+15,Mujer,17,Parla,4,Aficiones comunes
+16,Hombre,16,Parla,4,Aficiones comunes
+17,Mujer,56,Parla,4,Aficiones comunes
+18,Hombre,48,Parla,4,Aficiones comunes
+19,Mujer,25,Parla,4,Aficiones comunes
+20,Hombre,25,Parla,4,Aficiones comunes
+21,Mujer,40,Parla,4,Aficiones comunes
+22,Hombre,41,Parla,4,Aficiones comunes
+23,Mujer,50,Casarrubuelos,4,Aficiones comunes
+24,Hombre,60,Casarrubuelos,5,Familia
+25,Mujer,56,Casarrubuelos,5,Familia
+26,Mujer,28,Madrid,5,Familia
+27,Hombre,30,Leganés,5,Familia
+28,Mujer,29,Leganés,5,Familia
+29,Mujer,41,Madrid,5,Familia

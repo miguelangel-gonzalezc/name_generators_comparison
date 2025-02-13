@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,53,Calahorra,3,Familia
+1,Mujer,46,Logroño,3,Familia
+2,Hombre,44,Zaragoza,2,Familia
+3,Mujer,79,Calahorra,3,Familia
+4,Hombre,79,Calahorra,2,Familia
+5,Mujer,22,Madrid,3,Estudios de Primaria/Secundaria
+6,Mujer,22,Calahorra,3,Estudios de Primaria/Secundaria
+7,Hombre,22,Calahorra,3,Estudios de Primaria/Secundaria
+8,Mujer,22,Valencia,3,Estudios de Primaria/Secundaria
+9,Mujer,16,Logroño,2,Familia
+10,Hombre,12,Logroño,2,Familia
+11,Mujer,22,Madrid,2,Estudios Superiores
+12,Mujer,22,Madrid,2,Aficiones comunes
+13,Hombre,35,Madrid,2,Otro
+14,Hombre,21,Madrid,1,Aficiones comunes
+15,Mujer,22,Madrid,1,Otro
+16,Mujer,21,Madrid,1,Otro
+17,Mujer,20,Madrid,1,Aficiones comunes
+18,Mujer,22,Valencia,2,Otro
+19,Mujer,22,Murcia,2,Otro
+20,Hombre,22,Valencia,2,Otro
+21,Mujer,22,Madrid,2,Otro
+22,Hombre,22,Valencia,1,Otro
+23,Mujer,22,Jaen,2,Otro
+24,Mujer,22,Barcelona,2,Otro
+25,Mujer,22,Girona,1,Otro
+26,Mujer,22,San Sebastian,1,Estudios de Primaria/Secundaria
+27,Mujer,21,Calahorra,1,Estudios de Primaria/Secundaria
+28,Hombre,40,Madrid,1,Aficiones comunes
+29,Mujer,24,Madrid,1,Aficiones comunes

@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,32.0,VALENCIA,5.0,Otro
+1,Mujer,32.0,OPORTO,5.0,A través de otra persona
+2,Mujer,32.0,OPORTO,5.0,A través de otra persona
+3,Hombre,28.0,OPORTO,4.0,A través de otra persona
+4,Mujer,26.0,OPORTO,3.0,A través de otra persona
+5,Mujer,39.0,OPORTO,2.0,Trabajo
+6,Mujer,65.0,OPORTO,2.0,Trabajo
+7,Hombre,46.0,OPORTO,1.0,Trabajo
+8,Mujer,31.0,PALENCIA,3.0,Estudios de Primaria/Secundaria
+9,Mujer,31.0,PALENCIA,2.0,Estudios de Primaria/Secundaria
+10,Mujer,31.0,VALLADOLID,2.0,Estudios Superiores
+11,Mujer,32.0,PALENCIA,2.0,A través de otra persona
+12,Mujer,65.0,BURGOS,1.0,Trabajo
+13,Mujer,37.0,VALLADOLID,3.0,Trabajo
+14,Hombre,31.0,BURGOS,3.0,Estudios Superiores
+15,Mujer,31.0,BURGOS,4.0,Estudios Superiores
+16,Mujer,34.0,BURGOS,2.0,Trabajo
+17,Hombre,33.0,PALENCIA,2.0,A través de otra persona
+18,Mujer,65.0,VALLADOLID,1.0,Trabajo
+19,Mujer,37.0,VALLADOLID,1.0,Trabajo
+20,Mujer,35.0,TEHERAN,3.0,Trabajo
+21,Mujer,70.0,PALENCIA,5.0,Familia
+22,Hombre,32.0,PALENCIA,2.0,Familia
+23,Hombre,32.0,PALENCIA,3.0,Familia
+24,Mujer,57.0,PALENCIA,4.0,Familia
+25,Mujer,50.0,BURGOS,2.0,Trabajo
+26,Hombre,43.0,OPORTO,2.0,A través de otra persona
+27,Hombre,40.0,VALLADOLID,2.0,Trabajo
+28,Mujer,26.0,VALLADOLID,2.0,Trabajo
+29,Hombre,38.0,OPORTO,2.0,Trabajo

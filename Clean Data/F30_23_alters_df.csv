@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Hombre,24,Madrid,5,Familia
+1,Mujer,57,Madrid,5,Familia
+2,Mujer,29,Madrid,5,Familia
+3,Mujer,22,Nueva York,4,Estudios de Primaria/Secundaria
+4,Hombre,24,Madrid,3,Estudios de Primaria/Secundaria
+5,Mujer,22,Madrid,3,Estudios de Primaria/Secundaria
+6,Mujer,22,Madrid,3,Estudios de Primaria/Secundaria
+7,Mujer,22,Madrid,5,Familia
+8,Hombre,69,Madrid,5,Familia
+9,Mujer,17,Madrid,5,Familia
+10,Mujer,23,Madrid,2,A través de otra persona
+11,Hombre,24,Madrid,4,Estudios de Primaria/Secundaria
+12,Hombre,46,Madrid,2,Estudios Superiores
+13,Hombre,22,Madrid,3,Vecino/a
+14,Otro,1,Madrid,5,Otro
+15,Hombre,26,Madrid,1,A través de otra persona
+16,Mujer,59,Madrid,3,A través de otra persona
+17,Mujer,75,Madrid,5,Familia
+18,Otro,5,Madrid,5,Otro
+19,Mujer,56,Getafe,3,Trabajo
+20,Hombre,29,Madrid,3,Vecino/a
+21,Mujer,21,Madrid,2,A través de otra persona
+22,Hombre,22,Madrid,2,A través de otra persona
+23,Hombre,78,Madrid,5,Familia
+24,Hombre,20,Tudela Navarra,3,Vecino/a
+25,Hombre,76,Tudela Navarra,4,Vecino/a
+26,Mujer,22,Madrid,3,A través de otra persona
+27,Hombre,24,Madrid,3,Aficiones comunes
+28,Hombre,24,San Fernando de Henares,2,Aficiones comunes
+29,Hombre,25,Madrid,3,A través de otra persona

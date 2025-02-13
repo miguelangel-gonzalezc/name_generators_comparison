@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,23,Madrid ,2,Otro
+1,Mujer,24,Madrid ,5,Estudios Superiores
+2,Otro,24,Madrid ,5,Estudios Superiores
+3,Hombre,24,Madrid ,4,Estudios de Primaria/Secundaria
+4,Hombre,24,Palma,3,Estudios de Primaria/Secundaria
+5,Otro,24,Lugano,3,Estudios de Primaria/Secundaria
+6,Hombre,24,Llucmajor,3,Estudios de Primaria/Secundaria
+7,Hombre,24,Llucmajor ,3,Estudios de Primaria/Secundaria
+8,Mujer,29,Barcelona ,2,Estudios Superiores
+9,Hombre,24,Barcelona ,2,Estudios de Primaria/Secundaria
+10,Hombre,26,Palma ,2,Estudios de Primaria/Secundaria
+11,Hombre,24,Madrid ,4,Estudios Superiores
+12,Hombre,24,Madrid ,4,Estudios Superiores
+13,Mujer,24,Barcelona ,4,Estudios Superiores
+14,Mujer,24,Lisboa ,4,Estudios de Primaria/Secundaria
+15,Hombre,23,Madrid ,2,A través de otra persona
+16,Hombre,24,Marratxí ,4,Estudios de Primaria/Secundaria
+17,Hombre,24,Barcelona ,2,Otro
+18,Mujer,26,París ,2,Otro
+19,Hombre,60,Tenerife,2,Estudios Superiores
+20,Mujer,56,Palma,4,Familia
+21,Hombre,57,Palma ,4,Familia
+22,Mujer,22,Madrid ,2,A través de otra persona
+23,Mujer,54,Palma ,4,Familia
+24,Hombre,57,Palma ,4,Familia
+25,Hombre,24,Palma,3,Estudios de Primaria/Secundaria
+26,Hombre,24,Palma ,3,Estudios de Primaria/Secundaria
+27,Hombre,24,Estocolmo ,3,Estudios de Primaria/Secundaria
+28,Mujer,23,Huesca ,2,Otro
+29,Mujer,27,Getafe ,2,Estudios Superiores

@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,53,Madrid,5,Familia
+1,Mujer,16,Madrid,5,Familia
+2,Hombre,54,Madrid,5,Familia
+3,Hombre,26,Madrid,5,A través de otra persona
+4,Mujer,26,Madrid,5,Estudios de Primaria/Secundaria
+5,Mujer,25,Canarias,5,A través de otra persona
+6,Mujer,25,Madrid,5,A través de otra persona
+7,Hombre,26,Madrid,5,A través de otra persona
+8,Hombre,25,Alemania,5,A través de otra persona
+9,Mujer,58,Badajoz,5,Familia
+10,Hombre,25,Polonia,5,Familia
+11,Mujer,30,Polonia,5,Familia
+12,Hombre,29,Polonia,5,Familia
+13,Hombre,25,Navarra,5,Familia
+14,Mujer,22,Madrid,5,Vecino/a
+15,Hombre,27,Madrid,5,A través de otra persona
+16,Hombre,26,Madrid,5,A través de otra persona
+17,Mujer,24,Madrid,4,A través de otra persona
+18,Hombre,27,Badajoz,4,Familia
+19,Mujer,17,Badajoz,4,Familia
+20,Hombre,27,Madrid,5,Vecino/a
+21,Hombre,34,Madrid,4,Familia
+22,Hombre,63,Madrid,4,Familia
+23,Mujer,62,Badajoz,5,Familia
+24,Hombre,22,Madrid,4,Vecino/a
+25,Mujer,24,Madrid,4,Vecino/a
+26,Mujer,28,Madrid,4,Vecino/a
+27,Mujer,53,Madrid,4,Vecino/a
+28,Hombre,55,Madrid,4,Vecino/a
+29,Hombre,24,Madrid,4,Estudios de Primaria/Secundaria

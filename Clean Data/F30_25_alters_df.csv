@@ -1,0 +1,31 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Hombre,63,Madrid,5,Familia
+1,Hombre,66,Madrid,5,Familia
+2,Mujer,66,Madrid,5,Familia
+3,Hombre,25,Barcelona,5,Estudios de Primaria/Secundaria
+4,Hombre,25,Madrid,5,Estudios de Primaria/Secundaria
+5,Hombre,25,Madrid ,4,Estudios de Primaria/Secundaria
+6,Hombre,24,Constanza ,5,Estudios Superiores
+7,Mujer,25,Madrid,5,Estudios Superiores
+8,Mujer,25,Viena,5,Estudios de Primaria/Secundaria
+9,Mujer,25,Bangkok,5,Estudios de Primaria/Secundaria
+10,Mujer,25,Madrid,5,Estudios de Primaria/Secundaria
+11,Mujer,24,Alcorcón ,4,Estudios Superiores
+12,Hombre,24,Madrid,4,Estudios Superiores
+13,Mujer,24,Santander ,4,Estudios Superiores
+14,Mujer,25,Madrid,5,Estudios Superiores
+15,Mujer,25,Getafe,4,Estudios Superiores
+16,Hombre,25,Madrid ,3,A través de otra persona
+17,Mujer,23,Getafe,4,Estudios Superiores
+18,Hombre,23,Florencia,3,Estudios Superiores
+19,Hombre,23,Bolonia,3,Estudios Superiores
+20,Mujer,23,Estados Unidos ,3,Estudios Superiores
+21,Hombre,58,Madrid,5,Familia
+22,Mujer,57,Madrid,5,Familia
+23,Mujer,26,Madrid,3,Estudios de Primaria/Secundaria
+24,Mujer,43,Madrid,2,Trabajo
+25,Hombre,47,Madrid,1,Estudios Superiores
+26,Hombre,45,Madrid,1,Estudios Superiores
+27,Hombre,77,Madrid,2,Vecino/a
+28,Hombre,50,Madrid,2,Vecino/a
+29,Hombre,25,Madrid,2,A través de otra persona
