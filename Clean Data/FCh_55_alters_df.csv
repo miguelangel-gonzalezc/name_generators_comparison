@@ -1,0 +1,46 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,26.0,Malaga,5.0,Estudios de Primaria/Secundaria
+1,Mujer,27.0,Málaga ,4.0,Estudios de Primaria/Secundaria
+2,Mujer,27.0,Barcelona ,4.0,Estudios de Primaria/Secundaria
+3,Mujer,28.0,Suiza,3.0,Estudios de Primaria/Secundaria
+4,Mujer,27.0,Baza,4.0,Estudios Superiores
+5,Mujer,26.0,Málaga ,4.0,Estudios Superiores
+6,Mujer,27.0,Jaén ,4.0,Estudios Superiores
+7,Hombre,30.0,Málaga ,5.0,Familia
+8,Hombre,27.0,Málaga ,5.0,Familia
+9,Mujer,60.0,Málaga ,5.0,Familia
+10,Hombre,59.0,Málaga ,5.0,Familia
+11,Mujer,24.0,Granada,3.0,Estudios Superiores
+12,Mujer,24.0,Francia,3.0,Estudios Superiores
+13,Hombre,34.0,Málaga ,4.0,Trabajo
+14,Mujer,28.0,Málaga ,4.0,Trabajo
+15,Mujer,58.0,Málaga ,5.0,Familia
+16,Hombre,61.0,Málaga ,5.0,Familia
+17,Mujer,36.0,Málaga ,3.0,Trabajo
+18,Hombre,27.0,Málaga ,3.0,Estudios de Primaria/Secundaria
+19,Mujer,27.0,Málaga ,2.0,Estudios de Primaria/Secundaria
+20,Hombre,27.0,Málaga ,3.0,Estudios de Primaria/Secundaria
+21,Hombre,27.0,Irlanda,4.0,Familia
+22,Hombre,40.0,Madrid,2.0,Otro
+23,Hombre,38.0,Málaga ,2.0,Otro
+24,Mujer,40.0,Málaga ,2.0,Otro
+25,Mujer,32.0,Sevilla,3.0,Trabajo
+26,Hombre,42.0,Málaga ,3.0,Trabajo
+27,Hombre,54.0,Sevilla,1.0,Otro
+28,Mujer,56.0,Sevilla,1.0,Otro
+29,Mujer,27.0,Cádiz ,2.0,Estudios de Primaria/Secundaria
+30,Hombre,31.0,Madrid,2.0,Otro
+31,Mujer,28.0,Madrid ,2.0,Otro
+32,Hombre,67.0,Madrid ,1.0,Otro
+33,Mujer,27.0,Francia ,3.0,Estudios Superiores
+34,Hombre,27.0,Francia,2.0,Estudios Superiores
+35,Hombre,67.0,Inglaterra ,1.0,Otro
+36,Hombre,70.0,Málaga ,2.0,Otro
+37,Mujer,30.0,Málaga ,3.0,Familia
+38,Hombre,40.0,Sevilla,2.0,Otro
+39,Hombre,30.0,México ,3.0,Otro
+40,Mujer,32.0,México ,2.0,Otro
+41,Mujer,37.0,Sevilla,2.0,Aficiones comunes
+42,Mujer,29.0,Madrid,2.0,Aficiones comunes
+43,Mujer,33.0,Madrid,2.0,Aficiones comunes
+44,Hombre,33.0,Madrid ,2.0,Otro

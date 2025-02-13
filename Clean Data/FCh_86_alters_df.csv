@@ -1,0 +1,46 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,57.0,Leganés ,5.0,Familia
+1,Hombre,57.0,Leganés ,5.0,Familia
+2,Hombre,23.0,Leganés ,5.0,Familia
+3,Hombre,84.0,Leganés ,5.0,Familia
+4,Mujer,83.0,Leganés ,5.0,Familia
+5,Hombre,92.0,Madrid ,3.0,Familia
+6,Mujer,90.0,Madrid ,3.0,Familia
+7,Hombre,53.0,Fuenlabrada ,3.0,Familia
+8,Mujer,62.0,Madrid ,3.0,Familia
+9,Mujer,35.0,Vallecas,1.0,Familia
+10,Hombre,54.0,Jaén ,1.0,Familia
+11,Mujer,20.0,Jaén ,1.0,Familia
+12,Mujer,25.0,Leganés ,5.0,Estudios de Primaria/Secundaria
+13,Mujer,25.0,Leganés ,5.0,A través de otra persona
+14,Mujer,25.0,Leganés ,4.0,Estudios de Primaria/Secundaria
+15,Mujer,25.0,Leganés ,3.0,Estudios de Primaria/Secundaria
+16,Hombre,26.0,Leganés ,3.0,Vecino/a
+17,Hombre,26.0,Leganés ,3.0,A través de otra persona
+18,Mujer,26.0,Leganés ,2.0,Otro
+19,Mujer,29.0,Getafe ,2.0,Aficiones comunes
+20,Mujer,23.0,Madridi,5.0,Vecino/a
+21,Mujer,52.0,Madrid ,5.0,Vecino/a
+22,Hombre,65.0,Madrid,5.0,Vecino/a
+23,Mujer,18.0,Madrid,3.0,Vecino/a
+24,Mujer,26.0,Buitrago ,5.0,Vecino/a
+25,Mujer,24.0,Buitrago ,3.0,Vecino/a
+26,Mujer,37.0,Madrid,4.0,Trabajo
+27,Mujer,35.0,Madrid,1.0,Vecino/a
+28,Mujer,28.0,Madrid ,1.0,Otro
+29,Mujer,28.0,Alcorcón ,5.0,Estudios Superiores
+30,Mujer,25.0,Móstoles ,4.0,Estudios Superiores
+31,Mujer,28.0,Leganés ,2.0,Otro
+32,,,,,
+33,,,,,
+34,,,,,
+35,,,,,
+36,,,,,
+37,,,,,
+38,,,,,
+39,,,,,
+40,,,,,
+41,,,,,
+42,,,,,
+43,,,,,
+44,,,,,

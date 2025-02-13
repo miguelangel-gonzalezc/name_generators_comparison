@@ -1,0 +1,46 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,65.0,Venezuela ,5.0,Familia
+1,Mujer,32.0,España,2.0,Trabajo
+2,Hombre,75.0,Venezuela ,5.0,Familia
+3,Mujer,45.0,España,5.0,Familia
+4,Mujer,32.0,España,3.0,Trabajo
+5,Mujer,43.0,España,3.0,Trabajo
+6,Mujer,24.0,España,3.0,A través de otra persona
+7,Mujer,16.0,España,3.0,A través de otra persona
+8,Mujer,10.0,Venezuela ,5.0,Familia
+9,Hombre,35.0,España,2.0,Trabajo
+10,Hombre,32.0,Venezuela ,3.0,Trabajo
+11,Hombre,63.0,España ,3.0,Aficiones comunes
+12,Hombre,43.0,España ,3.0,Trabajo
+13,Hombre,72.0,España ,3.0,Trabajo
+14,Mujer,84.0,Venezuela ,1.0,Familia
+15,Mujer,26.0,Venezuela ,3.0,Familia
+16,Mujer,6.0,Venezuela ,5.0,Familia
+17,Mujer,26.0,Venezuela ,3.0,Vecino/a
+18,Mujer,29.0,Venezuela ,3.0,Trabajo
+19,Hombre,34.0,Venezuela ,4.0,Familia
+20,Hombre,68.0,Venezuela ,4.0,Familia
+21,Hombre,38.0,miami,4.0,Estudios de Primaria/Secundaria
+22,Mujer,45.0,España ,4.0,A través de otra persona
+23,Mujer,59.0,Venezuela ,3.0,Aficiones comunes
+24,Hombre,36.0,España,3.0,Trabajo
+25,Mujer,36.0,España ,4.0,Aficiones comunes
+26,Hombre,32.0,España,2.0,Trabajo
+27,Hombre,19.0,España,2.0,A través de otra persona
+28,Mujer,23.0,España ,2.0,A través de otra persona
+29,Mujer,28.0,España ,3.0,Trabajo
+30,Mujer,32.0,Colombia ,4.0,Trabajo
+31,Hombre,35.0,Argentina,3.0,Estudios Superiores
+32,Hombre,38.0,España ,3.0,Estudios Superiores
+33,Mujer,38.0,España,4.0,Vecino/a
+34,Mujer,39.0,Venezuela ,4.0,Estudios de Primaria/Secundaria
+35,Mujer,37.0,Argentina ,3.0,Estudios de Primaria/Secundaria
+36,Mujer,67.0,Venezuela ,4.0,Estudios Superiores
+37,Mujer,65.0,Venezuela ,4.0,Familia
+38,Mujer,32.0,Venezuela ,4.0,Trabajo
+39,Mujer,56.0,Venezuela ,3.0,Vecino/a
+40,Mujer,26.0,España ,4.0,Trabajo
+41,Mujer,45.0,Argentina ,3.0,Aficiones comunes
+42,Mujer,34.0,España ,3.0,Vecino/a
+43,Mujer,28.0,España ,3.0,Trabajo
+44,Mujer,65.0,Venezuela ,3.0,Trabajo

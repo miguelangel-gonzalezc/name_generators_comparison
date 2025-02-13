@@ -1,0 +1,46 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Hombre,58.0,Ávila,5.0,Familia
+1,Mujer,57.0,Ávila,5.0,Familia
+2,Mujer,35.0,Ávila,5.0,Familia
+3,Hombre,30.0,Salamanca,5.0,Estudios Superiores
+4,Hombre,33.0,Ávila,4.0,A través de otra persona
+5,Prefiero no responder,29.0,Ávila,5.0,Estudios de Primaria/Secundaria
+6,Mujer,30.0,Ávila,5.0,Aficiones comunes
+7,Mujer,30.0,Ávila,5.0,A través de otra persona
+8,Mujer,29.0,Burgos,4.0,Estudios Superiores
+9,Mujer,30.0,Astorga,4.0,Estudios Superiores
+10,Mujer,30.0,Asturias,4.0,Estudios Superiores
+11,Mujer,34.0,Burgos,4.0,Trabajo
+12,Hombre,48.0,Valladolid,5.0,Trabajo
+13,Mujer,45.0,Burgos,4.0,Trabajo
+14,Hombre,50.0,Valladolid,4.0,Trabajo
+15,Hombre,47.0,Valladolid,3.0,Trabajo
+16,Hombre,50.0,Burgos,3.0,Trabajo
+17,Hombre,60.0,Salamanca,5.0,A través de otra persona
+18,Mujer,57.0,Salamanca,5.0,A través de otra persona
+19,Hombre,23.0,Salamanca,4.0,A través de otra persona
+20,Hombre,26.0,Ávila,4.0,Familia
+21,Hombre,95.0,Ávila,5.0,Familia
+22,Mujer,86.0,Ávila,5.0,Familia
+23,Mujer,54.0,Madrid,5.0,Familia
+24,Hombre,57.0,Madrid,4.0,A través de otra persona
+25,Mujer,58.0,León,5.0,A través de otra persona
+26,Hombre,60.0,León,4.0,A través de otra persona
+27,Mujer,88.0,Ávila,5.0,Familia
+28,Hombre,57.0,Madrid,4.0,Familia
+29,Mujer,22.0,Madrid,4.0,Familia
+30,Hombre,19.0,Madrid,4.0,Familia
+31,Mujer,56.0,Madrid,4.0,Familia
+32,Hombre,50.0,Ávila,4.0,Familia
+33,Mujer,61.0,Ávila,4.0,Familia
+34,Hombre,29.0,Valladolid,5.0,Familia
+35,Mujer,28.0,Madrid,4.0,A través de otra persona
+36,Mujer,30.0,Madrid,4.0,Estudios Superiores
+37,Mujer,26.0,Burgos,4.0,Estudios Superiores
+38,Hombre,35.0,Ávila,4.0,A través de otra persona
+39,Mujer,36.0,Burgos,4.0,Vecino/a
+40,Hombre,29.0,Ávila,3.0,Estudios de Primaria/Secundaria
+41,Hombre,29.0,Ávila,4.0,Estudios de Primaria/Secundaria
+42,Mujer,32.0,Salamanca,4.0,A través de otra persona
+43,Hombre,32.0,Salamanca,4.0,A través de otra persona
+44,Mujer,31.0,Salamanca,4.0,Estudios Superiores

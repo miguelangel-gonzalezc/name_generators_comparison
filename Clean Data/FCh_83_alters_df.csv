@@ -1,0 +1,46 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Hombre,34.0,Madrid,5.0,A través de otra persona
+1,Mujer,36.0,Madrid,5.0,Estudios de Primaria/Secundaria
+2,Mujer,35.0,Madrid,4.0,A través de otra persona
+3,Mujer,27.0,Madrid,4.0,Trabajo
+4,Mujer,30.0,Madrid,4.0,Trabajo
+5,Mujer,49.0,Alcobendas,3.0,Trabajo
+6,Mujer,33.0,Madrid,3.0,Estudios Superiores
+7,Mujer,41.0,Madrid,3.0,Estudios Superiores
+8,Mujer,37.0,Manzanares el Real,3.0,Estudios de Primaria/Secundaria
+9,Mujer,34.0,Madrid,3.0,Estudios de Primaria/Secundaria
+10,Mujer,34.0,Alcorcon,3.0,Aficiones comunes
+11,Mujer,54.0,Pinto,4.0,Aficiones comunes
+12,Mujer,36.0,Valdemorillo,3.0,Aficiones comunes
+13,Hombre,71.0,Velilla,4.0,Aficiones comunes
+14,Mujer,32.0,Madrid,3.0,Aficiones comunes
+15,Hombre,58.0,Madrid,3.0,Aficiones comunes
+16,Hombre,64.0,Madrid,5.0,Familia
+17,Hombre,23.0,Madrid,5.0,Familia
+18,Hombre,56.0,Tres Cantos,3.0,Familia
+19,Mujer,37.0,Madrid,5.0,A través de otra persona
+20,Hombre,37.0,Madrid,3.0,Estudios Superiores
+21,Hombre,42.0,Redondela,2.0,A través de otra persona
+22,Mujer,37.0,Alcorcon,4.0,Trabajo
+23,Mujer,48.0,Alcobendas,3.0,Trabajo
+24,Mujer,45.0,Madrid,2.0,Trabajo
+25,Hombre,36.0,Madrid,4.0,A través de otra persona
+26,Hombre,33.0,Manzanares el Real,2.0,Aficiones comunes
+27,Hombre,35.0,Madrid,3.0,A través de otra persona
+28,Hombre,38.0,Madrid,3.0,A través de otra persona
+29,Hombre,39.0,Cobisa,5.0,Estudios Superiores
+30,Mujer,91.0,oropesa del Mar,5.0,Familia
+31,Mujer,64.0,Oropesa del Mar,1.0,Familia
+32,Mujer,35.0,Madrid,3.0,Estudios de Primaria/Secundaria
+33,Mujer,36.0,Madrid,3.0,A través de otra persona
+34,Hombre,37.0,Madrid,3.0,Estudios Superiores
+35,Mujer,28.0,Torrejón ,3.0,Trabajo
+36,Mujer,40.0,Madrid,3.0,A través de otra persona
+37,Mujer,36.0,Madrid,3.0,A través de otra persona
+38,Hombre,29.0,Valdemoro,3.0,Trabajo
+39,Mujer,31.0,Madrid,4.0,Trabajo
+40,Hombre,29.0,Collado Mediano,1.0,Trabajo
+41,Hombre,30.0,Madrid,2.0,A través de otra persona
+42,Hombre,49.0,Cabanillas de la Sierra,3.0,Aficiones comunes
+43,Hombre,67.0,Madrid,4.0,Aficiones comunes
+44,Mujer,37.0,Madrid,3.0,Aficiones comunes

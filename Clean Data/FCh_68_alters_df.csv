@@ -1,0 +1,46 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,56.0,Bogotá ,4.0,Familia
+1,Mujer,47.0,Bogotá ,5.0,Familia
+2,Hombre,34.0,Bogotá ,5.0,Familia
+3,Hombre,40.0,Boyacá ,3.0,Familia
+4,Hombre,72.0,Boyacá ,3.0,Familia
+5,Hombre,50.0,Bogotá ,2.0,A través de otra persona
+6,Mujer,76.0,Boyacá ,5.0,Familia
+7,Mujer,21.0,Bogotá ,5.0,Familia
+8,Hombre,18.0,Bogotá ,4.0,Familia
+9,Mujer,25.0,Bogotá ,1.0,A través de otra persona
+10,Mujer,21.0,Boyacá ,1.0,A través de otra persona
+11,Mujer,30.0,Bogotá ,2.0,Familia
+12,Mujer,28.0,Bogotá ,1.0,Estudios Superiores
+13,Mujer,28.0,Bogotá ,1.0,Vecino/a
+14,Hombre,58.0,Bogotá ,1.0,A través de otra persona
+15,Hombre,51.0,Bogotá ,4.0,A través de otra persona
+16,Mujer,56.0,Bogotá ,5.0,Familia
+17,Mujer,30.0,Bogotá ,1.0,Familia
+18,Hombre,16.0,Bogotá ,1.0,Familia
+19,Hombre,10.0,Bogotá ,5.0,A través de otra persona
+20,Hombre,9.0,Bogotá ,2.0,A través de otra persona
+21,Mujer,16.0,Bogotá ,4.0,A través de otra persona
+22,Hombre,65.0,Bogotá ,2.0,Familia
+23,Mujer,30.0,Bogotá ,2.0,Familia
+24,Mujer,31.0,Bogotá ,3.0,Familia
+25,Mujer,30.0,Bogotá ,5.0,Trabajo
+26,Hombre,12.0,Bogotá ,2.0,A través de otra persona
+27,Mujer,60.0,Bogotá ,1.0,A través de otra persona
+28,Mujer,55.0,Palma cundinamarca ,1.0,A través de otra persona
+29,Hombre,45.0,Bogotá ,2.0,Familia
+30,Mujer,47.0,Bogotá ,1.0,A través de otra persona
+31,Hombre,44.0,Bogotá ,1.0,Familia
+32,Mujer,70.0,Bogotá ,5.0,Familia
+33,Hombre,80.0,Bogotá ,4.0,Familia
+34,Hombre,57.0,Boyacá ,2.0,Vecino/a
+35,Mujer,60.0,Boyacá ,2.0,Familia
+36,Mujer,50.0,Bogotá ,4.0,A través de otra persona
+37,Hombre,65.0,Bogotá ,1.0,Familia
+38,Hombre,53.0,Bogotá ,4.0,Familia
+39,Mujer,40.0,Bogotá ,1.0,Vecino/a
+40,Mujer,42.0,Bogotá ,5.0,Estudios Superiores
+41,Hombre,47.0,Boyacá ,2.0,Vecino/a
+42,Hombre,42.0,Bogotá ,1.0,A través de otra persona
+43,Hombre,55.0,Bogotá ,1.0,Otro
+44,Mujer,58.0,Bogotá ,5.0,Familia

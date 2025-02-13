@@ -1,0 +1,46 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Hombre,23.0,Extremadura,5.0,Familia
+1,Mujer,22.0,Extremadura ,3.0,Familia
+2,Mujer,65.0,Extremadura ,5.0,Familia
+3,Mujer,72.0,Bilbao,5.0,Familia
+4,Mujer,41.0,Extremadura ,5.0,Familia
+5,Hombre,43.0,Extremadura ,5.0,Familia
+6,Mujer,40.0,Extremadura ,3.0,Familia
+7,Mujer,49.0,Bilbao,5.0,Familia
+8,Hombre,63.0,Extremadura ,5.0,Estudios de Primaria/Secundaria
+9,Mujer,65.0,Extremadura ,3.0,Familia
+10,Mujer,54.0,Extremadura ,2.0,Aficiones comunes
+11,Mujer,81.0,Madrid ,4.0,A través de otra persona
+12,Mujer,59.0,Extremadura ,3.0,Aficiones comunes
+13,Mujer,60.0,Extremadura ,4.0,Otro
+14,Mujer,61.0,Extremadura ,3.0,Familia
+15,Mujer,62.0,Extremadura ,3.0,Aficiones comunes
+16,Hombre,41.0,Extremadura ,1.0,Otro
+17,Mujer,45.0,Extremadura ,2.0,Otro
+18,Mujer,27.0,Extremadura ,2.0,Familia
+19,Hombre,53.0,Extremadura ,2.0,Vecino/a
+20,Mujer,83.0,Extremadura ,5.0,Familia
+21,Hombre,42.0,Extremadura ,2.0,Familia
+22,Mujer,55.0,Extremadura ,2.0,A través de otra persona
+23,Hombre,58.0,Extremadura ,2.0,Aficiones comunes
+24,Hombre,38.0,Extremadura ,2.0,Familia
+25,Mujer,43.0,Extremadura ,2.0,Familia
+26,Mujer,90.0,Extremadura ,3.0,Familia
+27,Mujer,85.0,Extremadura ,2.0,A través de otra persona
+28,Mujer,63.0,Extremadura ,1.0,Aficiones comunes
+29,Hombre,52.0,Extremadura ,1.0,Vecino/a
+30,Hombre,34.0,Extremadura ,2.0,Vecino/a
+31,Hombre,23.0,Extremadura ,2.0,A través de otra persona
+32,Mujer,58.0,Extremadura ,1.0,Familia
+33,Hombre,53.0,Bilbao,2.0,Familia
+34,Mujer,79.0,Ávila ,3.0,A través de otra persona
+35,Mujer,66.0,Ávila ,3.0,A través de otra persona
+36,Hombre,83.0,Madrid ,3.0,A través de otra persona
+37,Mujer,52.0,Extremadura ,2.0,Aficiones comunes
+38,Mujer,64.0,Extremadura ,2.0,Aficiones comunes
+39,Mujer,55.0,Extremadura ,2.0,Aficiones comunes
+40,,,,,
+41,,,,,
+42,,,,,
+43,,,,,
+44,,,,,
