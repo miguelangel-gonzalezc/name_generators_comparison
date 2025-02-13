@@ -1,0 +1,46 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Hombre,80,Alcorcón,5,Familia
+1,Mujer,73,Alcorcón,5,Familia
+2,Hombre,36,Madrid,3,Familia
+3,Mujer,34,Madrid,4,Estudios de Primaria/Secundaria
+4,Mujer,31,Madrid,4,A través de otra persona
+5,Hombre,40,Alcorcón,5,A través de otra persona
+6,Hombre,29,Madrid,3,A través de otra persona
+7,Mujer,36,Bolonia,5,Familia
+8,Mujer,62,Algeciras,5,Familia
+9,Mujer,78,Algeciras,4,A través de otra persona
+10,Mujer,30,Pozuelo,4,A través de otra persona
+11,Mujer,36,Madrid,4,Aficiones comunes
+12,Mujer,38,Madrid,3,Aficiones comunes
+13,Hombre,67,Tahivilla,4,Familia
+14,Hombre,42,Alicante,5,Familia
+15,Hombre,43,Madrid,5,Familia
+16,Mujer,85,Toledo,5,Otro
+17,Hombre,53,Barcelona,4,Trabajo
+18,Mujer,27,Barcelona,2,Trabajo
+19,Hombre,31,Madrid,4,Trabajo
+20,Hombre,31,Madrid,4,Trabajo
+21,Hombre,67,Tarifa,5,Familia
+22,Mujer,76,Madrid,5,Familia
+23,Mujer,78,Madrid,5,Familia
+24,Hombre,82,Madrif,5,Familia
+25,Mujer,36,Madrid,5,Familia
+26,Hombre,37,Madrid,3,Estudios de Primaria/Secundaria
+27,Mujer,42,Madrid,3,A través de otra persona
+28,Mujer,34,Madrid,4,Otro
+29,Mujer,37,París,3,A través de otra persona
+30,Hombre,40,Alcorcón,5,A través de otra persona
+31,Hombre,35,Madrid,3,A través de otra persona
+32,Hombre,55,Madrid,3,A través de otra persona
+33,Mujer,72,Chiclana,5,Familia
+34,Mujer,70,Madrid,5,Familia
+35,Hombre,39,Madrid,5,Familia
+36,Hombre,45,Madrid,5,Familia
+37,Mujer,36,Madrid,4,A través de otra persona
+38,Mujer,37,París,5,Estudios Superiores
+39,Mujer,37,Copenhague,5,Estudios Superiores
+40,Mujer,37,Madrid,4,Aficiones comunes
+41,Mujer,35,París,5,Estudios Superiores
+42,Hombre,34,París,5,A través de otra persona
+43,Mujer,35,Huelva,5,Otro
+44,Mujer,33,Huelva,5,A través de otra persona

@@ -1,0 +1,46 @@
+,Gender,Age,Residency,EmotionalProximity,Context
+0,Mujer,23,cuenca,5,Familia
+1,Mujer,55,Cuenca,5,Familia
+2,Hombre,55,Cuenca,5,Familia
+3,Hombre,28,Cuenca,5,Estudios de Primaria/Secundaria
+4,Hombre,27,Madrid,5,Estudios de Primaria/Secundaria
+5,Hombre,27,Elche,5,A través de otra persona
+6,Mujer,28,Cuenca,4,Estudios de Primaria/Secundaria
+7,Mujer,27,Cuenca,5,Familia
+8,Mujer,26,Cuenca,3,Estudios de Primaria/Secundaria
+9,Hombre,27,Cuenca,5,Estudios de Primaria/Secundaria
+10,Mujer,24,Cuenca,3,A través de otra persona
+11,Hombre,1,Cuenca,5,A través de otra persona
+12,Mujer,28,Madrid,4,A través de otra persona
+13,Mujer,26,Madrid,5,Estudios Superiores
+14,Mujer,48,Madrid,4,Trabajo
+15,Hombre,30,Madrid,3,Trabajo
+16,Mujer,43,Madrid,3,Trabajo
+17,Hombre,47,Madrid,5,Trabajo
+18,Hombre,30,Madrid,5,Trabajo
+19,Hombre,28,Madrid,3,Trabajo
+20,Mujer,44,Salamanca ,3,Trabajo
+21,Hombre,23,Valencia,3,Trabajo
+22,Hombre,32,Madrid,4,Trabajo
+23,Hombre,23,Madrid,5,Estudios de Primaria/Secundaria
+24,Hombre,27,Cuenca,5,Estudios de Primaria/Secundaria
+25,Hombre,33,Madrid,4,Trabajo
+26,Mujer,29,Valencia,4,Trabajo
+27,Mujer,42,Madrid,3,Trabajo
+28,Mujer,39,Paris,2,Trabajo
+29,Hombre,25,Madrid ,4,Trabajo
+30,Hombre,31,Paris,3,Trabajo
+31,Hombre,58,Madrid,3,Trabajo
+32,Hombre,35,Paris,4,Trabajo
+33,Mujer,41,Madrid,4,Trabajo
+34,Hombre,54,Madrid,5,Otro
+35,,,,,
+36,,,,,
+37,,,,,
+38,,,,,
+39,,,,,
+40,,,,,
+41,,,,,
+42,,,,,
+43,,,,,
+44,,,,,
