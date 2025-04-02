@@ -1,5 +1,5 @@
 # Name generators in egocentric network research: a comparative analysis of three approaches
-This is the official repository that includes the clean data required to reproduce the results presented in the preprint with DOI: TBD
+This is the official repository that includes the clean data required to reproduce the results presented in the preprint with DOI: https://osf.io/preprints/socarxiv/kumcj_v1
 
 All the data is contained in .csv files. There are three types of files: 
 - {NG}\_ego\_df.csv
